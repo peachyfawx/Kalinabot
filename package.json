@@ -1,0 +1,16 @@
+{
+  "name": "kalina_v2",
+  "version": "1.0.0",
+  "description": "An up to date rewrite of kalinabot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ServerWizard",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.2.0",
+    "mysql": "^2.18.1"
+  }
+}

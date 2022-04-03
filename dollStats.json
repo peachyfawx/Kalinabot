@@ -1,0 +1,23 @@
+[
+    {
+        "NAME": [
+            "Lee-Enfield",
+            "Lee Enfield",
+            "Enfield",
+            "Lee"
+        ],
+        "RARITY": 5,
+        "HEALTH": "40",
+        "AMMO": "15",
+        "RATION": "30",
+        "DAMAGE": "45",
+        "ACCURACY": "9",
+        "EVASION": "5",
+        "ROF": "23",
+        "MOVESPEED": "7",
+        "ARMOR": "0",
+        "CRITRATE": "40%",
+        "CRITDMG": "50%",
+        "ARMORPEN": "10"
+    }
+]

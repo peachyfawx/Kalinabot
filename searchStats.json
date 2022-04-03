@@ -1,0 +1,506 @@
+[
+  {
+    "DOLL": "SAA",
+    "COUNT": 72
+  },
+  {
+    "DOLL": "M1911",
+    "COUNT": 25
+  },
+  {
+    "DOLL": "M9",
+    "COUNT": 27
+  },
+  {
+    "DOLL": "M1895",
+    "COUNT": 19
+  },
+  {
+    "DOLL": "Tokarev",
+    "COUNT": 26
+  },
+  {
+    "DOLL": "Stechkin",
+    "COUNT": 34
+  },
+  {
+    "DOLL": "Makarov",
+    "COUNT": 20
+  },
+  {
+    "DOLL": "P38",
+    "COUNT": 13
+  },
+  {
+    "DOLL": "PPK",
+    "COUNT": 28
+  },
+  {
+    "DOLL": "P08",
+    "COUNT": 8
+  },
+  {
+    "DOLL": "C96",
+    "COUNT": 18
+  },
+  {
+    "DOLL": "Type 92",
+    "COUNT": 19
+  },
+  {
+    "DOLL": "Astra",
+    "COUNT": 13
+  },
+  {
+    "DOLL": "G17",
+    "COUNT": 27
+  },
+  {
+    "DOLL": "Thompson",
+    "COUNT": 44
+  },
+  {
+    "DOLL": "M3",
+    "COUNT": 5
+  },
+  {
+    "s": "Ingram",
+    "COUNT": 0
+  },
+  {
+    "DOLL": "FMG-9",
+    "COUNT": 13
+  },
+  {
+    "DOLL": "Vector",
+    "COUNT": 79
+  },
+  {
+    "DOLL": "PPSh-41",
+    "COUNT": 10
+  },
+  {
+    "DOLL": "PPS-43",
+    "COUNT": 22
+  },
+  {
+    "DOLL": "PP-2000",
+    "COUNT": 8
+  },
+  {
+    "DOLL": "MP40",
+    "COUNT": 14
+  },
+  {
+    "DOLL": "MP5",
+    "COUNT": 1
+  },
+  {
+    "DOLL": "Skorpion",
+    "COUNT": 19
+  },
+  {
+    "DOLL": "Sten MkII",
+    "COUNT": 13
+  },
+  {
+    "DOLL": "M38",
+    "COUNT": 7
+  },
+  {
+    "DOLL": "Micro Uzi",
+    "COUNT": 19
+  },
+  {
+    "DOLL": "m45",
+    "COUNT": 21
+  },
+  {
+    "DOLL": "M1",
+    "COUNT": 13
+  },
+  {
+    "DOLL": "M1A1",
+    "COUNT": 12
+  },
+  {
+    "DOLL": "Springfield",
+    "COUNT": 38
+  },
+  {
+    "DOLL": "M14",
+    "COUNT": 43
+  },
+  {
+    "DOLL": "M21",
+    "COUNT": 14
+  },
+  {
+    "DOLL": "Mosin-Nagant",
+    "COUNT": 17
+  },
+  {
+    "DOLL": "SVT-38",
+    "COUNT": 4
+  },
+  {
+    "DOLL": "Simonova",
+    "COUNT": 4
+  },
+  {
+    "DOLL": "PTRD",
+    "COUNT": 36
+  },
+  {
+    "DOLL": "SVD",
+    "COUNT": 40
+  },
+  {
+    "DOLL": "SV-98",
+    "COUNT": 27
+  },
+  {
+    "DOLL": "Kar98k",
+    "COUNT": 58
+  },
+  {
+    "DOLL": "G43",
+    "COUNT": 11
+  },
+  {
+    "DOLL": "WA2000",
+    "COUNT": 61
+  },
+  {
+    "DOLL": "Lee Enfield",
+    "COUNT": 54
+  },
+  {
+    "DOLL": "FF-49",
+    "COUNT": 2
+  },
+  {
+    "DOLL": "VM59",
+    "COUNT": 5
+  },
+  {
+    "DOLL": "NTW-20",
+    "COUNT": 57
+  },
+  {
+    "DOLL": "M16A1",
+    "COUNT": 46
+  },
+  {
+    "DOLL": "M4A1",
+    "COUNT": 91
+  },
+  {
+    "DOLL": "M4 SOPMOD II",
+    "COUNT": 81
+  },
+  {
+    "DOLL": "ST AR15",
+    "COUNT": 63
+  },
+  {
+    "DOLL": "AK-47",
+    "COUNT": 32
+  },
+  {
+    "DOLL": "AS Val",
+    "COUNT": 23
+  },
+  {
+    "DOLL": "StG44",
+    "COUNT": 13
+  },
+  {
+    "DOLL": "G41",
+    "COUNT": 1
+  },
+  {
+    "DOLL": "G3",
+    "COUNT": 1
+  },
+  {
+    "DOLL": "G36",
+    "COUNT": 2
+  },
+  {
+    "DOLL": "416",
+    "COUNT": 102
+  },
+  {
+    "DOLL": "Type56-1",
+    "COUNT": 24
+  },
+  {
+    "DOLL": "L85A1",
+    "COUNT": 5
+  },
+  {
+    "DOLL": "FMS",
+    "COUNT": 0
+  },
+  {
+    "DOLL": "FFC",
+    "COUNT": 29
+  },
+  {
+    "DOLL": "Galil",
+    "COUNT": 8
+  },
+  {
+    "DOLL": "Tar21",
+    "COUNT": 26
+  },
+  {
+    "DOLL": "SIG-510",
+    "COUNT": 5
+  },
+  {
+    "DOLL": "M1918",
+    "COUNT": 40
+  },
+  {
+    "DOLL": "M2HB",
+    "COUNT": 24
+  },
+  {
+    "DOLL": "M60",
+    "COUNT": 18
+  },
+  {
+    "DOLL": "FF M239 SAW",
+    "COUNT": 2
+  },
+  {
+    "DOLL": "M1919A4",
+    "COUNT": 21
+  },
+  {
+    "DOLL": "LWMMG",
+    "COUNT": 30
+  },
+  {
+    "DOLL": "DP28",
+    "COUNT": 3
+  },
+  {
+    "DOLL": "PK",
+    "COUNT": 35
+  },
+  {
+    "DOLL": "MG42",
+    "COUNT": 15
+  },
+  {
+    "DOLL": "MG34",
+    "COUNT": 6
+  },
+  {
+    "DOLL": "MG3",
+    "COUNT": 20
+  },
+  {
+    "DOLL": "Bren",
+    "COUNT": 11
+  },
+  {
+    "DOLL": "FFP-9",
+    "COUNT": 0
+  },
+  {
+    "DOLL": "MP-446",
+    "COUNT": 15
+  },
+  {
+    "DOLL": "Spectre",
+    "COUNT": 7
+  },
+  {
+    "DOLL": "IDW",
+    "COUNT": 101
+  },
+  {
+    "DOLL": "Type64",
+    "COUNT": 22
+  },
+  {
+    "DOLL": "Type88",
+    "COUNT": 19
+  },
+  {
+    "DOLL": "Grizzly",
+    "COUNT": 59
+  },
+  {
+    "DOLL": "M950A",
+    "COUNT": 69
+  },
+  {
+    "DOLL": "Mkp23",
+    "COUNT": 0
+  },
+  {
+    "DOLL": "P7",
+    "COUNT": 61
+  },
+  {
+    "DOLL": "UMP9",
+    "COUNT": 70
+  },
+  {
+    "DOLL": "UMP45",
+    "COUNT": 117
+  },
+  {
+    "DOLL": "OTs-12",
+    "COUNT": 25
+  },
+  {
+    "DOLL": "FAL",
+    "COUNT": 44
+  },
+  {
+    "DOLL": "F2000",
+    "COUNT": 8
+  },
+  {
+    "DOLL": "CZ-805",
+    "COUNT": 9
+  },
+  {
+    "DOLL": "MchG5",
+    "COUNT": 0
+  },
+  {
+    "DOLL": "FG42",
+    "COUNT": 31
+  },
+  {
+    "DOLL": "AAT-52",
+    "COUNT": 7
+  },
+  {
+    "DOLL": "Negev",
+    "COUNT": 122
+  },
+  {
+    "DOLL": "Welrod",
+    "COUNT": 3
+  },
+  {
+    "DOLL": "Suomi",
+    "COUNT": 70
+  },
+  {
+    "DOLL": "9A-91",
+    "COUNT": 51
+  },
+  {
+    "DOLL": "MG4",
+    "COUNT": 1
+  },
+  {
+    "DOLL": "Type 63",
+    "COUNT": 7
+  },
+  {
+    "DOLL": "6P62",
+    "COUNT": 18
+  },
+  {
+    "DOLL": "G36C",
+    "COUNT": 2
+  },
+  {
+    "DOLL": "M99",
+    "COUNT": 74
+  },
+  {
+    "DOLL": "Type 95",
+    "COUNT": 75
+  },
+  {
+    "DOLL": "Type 97",
+    "COUNT": 57
+  },
+  {
+    "DOLL": "SR-3MP",
+    "COUNT": 55
+  },
+  {
+    "DOLL": "Five-seveN",
+    "COUNT": 54
+  },
+  {
+    "DOLL": "ASh-12.7",
+    "COUNT": 6
+  },
+  {
+    "DOLL": "Super-SASS",
+    "COUNT": 26
+  },
+  {
+    "DOLL": "KSG",
+    "COUNT": 1
+  },
+  {
+    "DOLL": "M37",
+    "COUNT": 67
+  },
+  {
+    "DOLL": "M500",
+    "COUNT": 30
+  },
+  {
+    "DOLL": "M590",
+    "COUNT": 49
+  },
+  {
+    "DOLL": "Super-Shorty",
+    "COUNT": 24
+  },
+  {
+    "DOLL": "KS-23",
+    "COUNT": 21
+  },
+  {
+    "DOLL": "RMB-93",
+    "COUNT": 19
+  },
+  {
+    "DOLL": "Type97S",
+    "COUNT": 25
+  },
+  {
+    "DOLL": "G11",
+    "COUNT": 3
+  },
+  {
+    "DOLL": "PKP",
+    "COUNT": 80
+  },
+  {
+    "DOLL": "SPP-1",
+    "COUNT": 24
+  },
+  {
+    "DOLL": "OTs-14",
+    "COUNT": 63
+  },
+  {
+    "DOLL": "Z-62",
+    "COUNT": 6
+  },
+  {
+    "DOLL": "ARX-160",
+    "COUNT": 15
+  },
+  {
+    "DOLL": "PSG-1",
+    "COUNT": 2
+  }
+]

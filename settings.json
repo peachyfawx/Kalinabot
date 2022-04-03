@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "myID" : "",
+    "prefix" : "//",
+    "sqlPass": "password",
+    "sqlHost": "den1.mysql1.gear.host",
+    "sqlDB": "testcommander"
+}

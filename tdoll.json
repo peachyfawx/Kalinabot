@@ -1,0 +1,3521 @@
+[
+    {
+        "ID": 1,
+        "NAME": [
+            "SAA",
+            "Colt Revolver"
+        ],
+        "BUILDTIME": "00:50",
+        "TILE": "⚫🔵⚫\n🔵⚪🔵\n⚫🔵⚫\n**Affects all guns**\n**Increases damage by**\n12%(x1) / 15%(x2) / 18%(x3) / 21%(x4) / 24%(x5)\n**Increases accuracy by**\n25%(x1) / 32%(x2) / 38%(x3) / 44%(x4) / 50%(x5)",
+        "RARITY": 4,
+        "TYPE": "HG",
+        "SKILL": "Fire Command",
+        "DESC": "Increase allies' damage by 12% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Gddozla.png"
+    },
+    {
+        "ID": 2,
+        "NAME": [
+            "M1911"
+        ],
+        "BUILDTIME": "00:20",
+        "TILE": "⚫🔵⚫\n🔵⚪🔵\n⚫🔵⚫\n**Affects all guns**\n**Increase rate of fire by**\n12%(x1) / 15%(x2) / 18%(x3) / 21%(x4) / 24%(x5)**Increase accuracy by**\n30%(x1) / 38%(x2) / 45%(x3) / 53%(x4) / 60%(x5)",
+        "RARITY": 2,
+        "TYPE": "HG",
+        "SKILL": "Smoke Grenade",
+        "DESC": "Launch a smoke grenade that decreases enemy rate of fire by 20% and movement speed by 28% within a radius of 2.5 units for 2.5 seconds.",
+        "COOLDOWN": "15s cooldown, 1s initial cooldown",
+        "IMAGE": "https://i.imgur.com/t7xGOGk.png"
+    },
+    {
+        "ID": 3,
+        "NAME": [
+            "M9"
+        ],
+        "BUILDTIME": "00:40",
+        "TILE": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵\n**Affects all guns**\n**Increases evasion by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)\n**Increases damage by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Stun Grenade",
+        "DESC": "Launch a stun grenade that stuns enemies within a radius of 2.5 units for 1.6 seconds.",
+        "COOLDOWN": "15s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/xDGsxBP.png"
+    },
+    {
+        "ID": 5,
+        "NAME": [
+            "M1895"
+        ],
+        "BUILDTIME": "00:20",
+        "TILE": "⚫🔵⚫\n🔵⚪⚫\n⚫🔵⚫\n**Affects all guns**\n**Increases damage by**\n16%(x1) / 20%(x2) / 24%(x3) / 28%(x4) / 32%(x5)\n**Increases critical rate by**\n8%(x1) / 10%(x2) / 12%(x3) / 14%(x4) / 16%(x5)",
+        "RARITY": 2,
+        "TYPE": "HG",
+        "SKILL": "damage Suppression N",
+        "DESC": "During nighttime, decreases enemy damage by 20% for 5 seconds. During daytime, decreases enemy damage by 12% for 3 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/0tpQ67P.png"
+    },
+    {
+        "ID": 6,
+        "NAME": [
+            "Tokarev"
+        ],
+        "BUILDTIME": "00:45",
+        "TILE": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵\n**Affects all guns**\n**Increases rate of fire by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)\n**Increases accuracy by**\n25%(x1) / 32%(x2) / 38%(x3) / 44%(x4) / 50%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Cover Command",
+        "DESC": "Increase allies' evasion by 32% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/TvD2dJR.png"
+    },
+    {
+        "ID": 7,
+        "NAME": [
+            "Stechkin"
+        ],
+        "BUILDTIME": "00:55",
+        "TILE": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵\n**Affects all guns**\n**Increases damage by**\n6%(x1) / 8%(x2) / 9%(x3) / 11%(x4) / 12%(x5)\n**Increases rate of fire by**\n12%(x1) / 15%(x2) / 18%(x3) / 21%(x4) / 24%(x5)",
+        "RARITY": 4,
+        "TYPE": "HG",
+        "SKILL": "Assault Command",
+        "DESC": "Increase allies' rate of fire by 12% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/jL8JsFB.png"
+    },
+    {
+        "ID": 8,
+        "NAME": [
+            "Makarov"
+        ],
+        "BUILDTIME": "00:40",
+        "TILE": "🔵⚫⚫\n🔵⚪🔵\n🔵⚫⚫\n**Affects all guns**\n**Increases damage by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)\n**Increases rate of fire by**\n6%(x1) / 8%(x2) / 9%(x3) / 11%(x4) / 12%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Precision Suppression",
+        "DESC": "Decrease enemy accuracy by 24% for 4 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/BzGTZeZ.png"
+    },
+    {
+        "ID": 9,
+        "NAME": [
+            "P38",
+            "P.38"
+        ],
+        "BUILDTIME": "00:20",
+        "TILE": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵\n**Affects all guns**\n**Increases rate of fire by**\n7%(x1) / 9%(x2) / 11%(x3) / 13%(x4) / 14%(x5)\n**Increases accuracy by**\n28%(x1) / 35%(x2) / 42%(x3) / 49%(x4) / 56%(x5)",
+        "RARITY": 2,
+        "TYPE": "HG",
+        "SKILL": "Flare",
+        "DESC": "Increase allies' accuracy by 90% for 15 seconds during nighttime.",
+        "COOLDOWN": "16s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/RaUjqgp.png"
+    },
+    {
+        "ID": 10,
+        "NAME": [
+            "PPK"
+        ],
+        "BUILDTIME": "00:22",
+        "TILE": "🔵⚫⚫\n🔵⚪🔵\n🔵⚫⚫\n**Affects all guns**\n**Increases rate of fire by**\n7%(x1) / 9%(x2) / 11%(x3) / 13%(x4) / 14%(x5)\n**Increases accuracy by**\n28%(x1) / 35%(x2) / 42%(x3) / 49%(x4) / 56%(x5)",
+        "RARITY": 2,
+        "TYPE": "HG",
+        "SKILL": "Annihilation Command",
+        "DESC": "Increase allies' damage by 6% and critical rate by 25% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/AxQBi7z.png"
+    },
+    {
+        "ID": 11,
+        "NAME": [
+            "P08",
+            "Luger"
+        ],
+        "BUILDTIME": "00:30",
+        "TILE": "⚫🔵⚫\n⚫⚪🔵\n⚫🔵⚫\n**Affects all guns**\n**Increase accuracy by**\n35%(x1) / 44%(x2) / 53%(x3) / 62%(x4) / 70%(x5)\n**Increase damage by**\n7%(x1) / 9%(x2) / 11%(x3) / 13%(x4) / 14%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Cover Command N",
+        "DESC": "During nighttime, increases allies' evasion by 50% for 5 seconds. During daytime, increases allies' evasion by 28% for 3 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/s4F8X1H.png"
+    },
+    {
+        "ID": 12,
+        "NAME": [
+            "C96"
+        ],
+        "BUILDTIME": "00:30",
+        "TILE": "🔵⚫⚫\n⚫⚪🔵\n🔵⚫⚫\n**Affects all guns**\n**Increases accuracy by**\n32%(x1) / 40%(x2) / 48%(x3) / 56%(x4) / 64%(x5)\n**Increases evasion by**\n15%(x1) / 19%(x2) / 23%(x3) / 27%(x4) / 30%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Flare",
+        "DESC": "Increase allies' accuracy by 55% for 8 seconds during nighttime.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/3FKryIe.png"
+    },
+    {
+        "ID": 13,
+        "NAME": [
+            "Type 92",
+            "Type92",
+            "Type-92"
+        ],
+        "BUILDTIME": "00:35",
+        "TILE": "🔵🔵🔵\n🔵⚪🔵\n🔵🔵🔵\n**Affects all guns**\n**Increases accuracy by**\n25%(x1) / 32%(x2) / 38%(x3) / 44%(x4) / 50%(x5)\n**Increases evasion by**\n20%(x1) / 25%(x2) / 30%(x3) / 35%(x4) / 40%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Charge Command",
+        "DESC": "Increase allies' damage by 6% and rate of fire by 6% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/PvbTq52.png"
+    },
+    {
+        "ID": 14,
+        "NAME": [
+            "Astra"
+        ],
+        "BUILDTIME": "00:40",
+        "TILE": "🔵⚫🔵\n⚫⚪⚫\n🔵⚫🔵\n**Affects all guns**\n**Increase rate of fire by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)\n**Increase evasion by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Assault Command",
+        "DESC": "Increase allies' rate of fire by 11% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/LXBz1ua.png"
+    },
+    {
+        "ID": 15,
+        "NAME": [
+            "G17",
+            "Glocc"
+        ],
+        "BUILDTIME": "Obtainable from: 1-6, 1-4E",
+        "TILE": "🔵⚫🔵\n⚫⚪🔵\n🔵⚫🔵\n**Affects all guns**\n**Increases accuracy by**\n32%(x1) / 40%(x2) / 48%(x3) / 56%(x4) / 64%(x5)\n**Increases evasion by**\n15%(x1) / 19%(x2) / 23%(x3) / 27%(x4) / 30%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "damage Suppression",
+        "DESC": "Decrease enemy damage by 15% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/IjiV0TG.png"
+    },
+    {
+        "ID": 16,
+        "NAME": [
+            "Thompson",
+            "Tommy",
+            "Tommy Gun",
+            "Chicago Typewriter",
+            "Typewriter"
+        ],
+        "BUILDTIME": "02:30",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 12%\n**Increases evasion by** 15%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Force Shield",
+        "DESC": "Evade all enemy attacks for 2 seconds.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/KStpoYz.png"
+    },
+    {
+        "ID": 17,
+        "NAME": [
+            "M3"
+        ],
+        "BUILDTIME": "01:30",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫\n**Affects assault rifles**\n**Increases accuracy by** 40%\n**Increases evasion by** 30%",
+        "RARITY": 2,
+        "TYPE": "SMG",
+        "SKILL": "Hand Grenade",
+        "DESC": "Throw a grenade that deals 1.8x damage to enemies within a 2.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/dxG5FQe.png"
+    },
+    {
+        "ID": 18,
+        "NAME": [
+            "Ingram"
+        ],
+        "BUILDTIME": "02:00",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 12%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Smoke Grenade",
+        "DESC": "Launch a smoke grenade that decreases enemy rate of fire by 20% and movement speed by 30% within a radius of 2.5 units for 2.5 seconds.",
+        "COOLDOWN": "20s cooldown, 1s initial cooldown",
+        "IMAGE": "https://i.imgur.com/cPq0cVm.png"
+    },
+    {
+        "ID": 19,
+        "NAME": [
+            "FMG-9",
+            "FMG 9"
+        ],
+        "BUILDTIME": "Obtainable from: 2-6, 2-4E",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 10%\n**Increases evasion by** 12%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Evasion Focus",
+        "DESC": "Increase FMG-9's evasion by 65% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/8GIEVdc.png"
+    },
+    {
+        "ID": 20,
+        "NAME": [
+            "Vector"
+        ],
+        "BUILDTIME": "02:35",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫\n**Affects assault rifles**\n**Increases rate of fire by** 25%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Incendiary Grenade",
+        "DESC": "Launch an incendiary grenade that deals 3.5x damage to enemies within a radius of 1.5 units. Enemies caught in the fire take 0.5x damage every 0.33 seconds for 2 seconds.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/xA15dtI.png"
+    },
+    {
+        "ID": 21,
+        "NAME": [
+            "PPSh-41",
+            "PPSh 41",
+            "PPSh41"
+        ],
+        "BUILDTIME": "01:50",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects assault rifles**\n**Increases damage by** 10%\n**Increases rate of fire by** 5%",
+        "RARITY": 2,
+        "TYPE": "SMG",
+        "SKILL": "Hand Grenade",
+        "DESC": "Throw a hand grenade that deals 1.8x damage to enemies within a 2.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/HeEPWaO.png"
+    },
+    {
+        "ID": 22,
+        "NAME": [
+            "PPS-43",
+            "PPS 43",
+            "PPS43"
+        ],
+        "BUILDTIME": "02:10",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 10%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Hand Grenade",
+        "DESC": "Throw a grenade that deals 2.0x damage to enemies within a 2.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/RU0YuZS.png"
+    },
+    {
+        "ID": 23,
+        "NAME": [
+            "PP-90",
+            "PP90",
+            "PP 90"
+        ],
+        "BUILDTIME": "02:20",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 8%\n**Increase evasion by** 20%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Evasion Focus T",
+        "DESC": "Increase PP-90's evasion by 25% for 9 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/x4mJMow.png"
+    },
+    {
+        "ID": 24,
+        "NAME": [
+            "PP-2000",
+            "PP 2000",
+            "PP2000"
+        ],
+        "BUILDTIME": "01:10",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 10%\n**Increases accuracy by** 25%",
+        "RARITY": 2,
+        "TYPE": "SMG",
+        "SKILL": "Hand Grenade",
+        "DESC": "Throws a grenade that deals 1.8x damage to enemies within a 2.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/BE0iVPr.png"
+    },
+    {
+        "ID": 25,
+        "NAME": [
+            "MP40",
+            "MP-40",
+            "MP 40"
+        ],
+        "BUILDTIME": "01:30",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases accuracy by** 25%\n**Increases evasion by** 20%",
+        "RARITY": 2,
+        "TYPE": "SMG",
+        "SKILL": "Incendiary Grenade",
+        "DESC": "Launch an incendiary grenade that deals 2.8x damage to enemies within a radius of 1.5 units. Enemies caught in the fire take 0.5x damage every 0.33 seconds for 2 seconds.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/f1MQKaR.png"
+    },
+    {
+        "ID": 26,
+        "NAME": [
+            "Gr MP5",
+            "MP5"
+        ],
+        "BUILDTIME": "02:20",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases accuracy by** 40%\n**Increases critical hit rate by** 20%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Force Shield",
+        "DESC": "Evade all enemy attacks for 1.5 seconds",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/7D529LX.png"
+    },
+    {
+        "ID": 27,
+        "NAME": [
+            "Skorpion"
+        ],
+        "BUILDTIME": "02:00",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫\n**Affects assault rifles**\n**Increases rate of fire by** 15%\n**Increases accuracy by** 50%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Incendiary Grenade",
+        "DESC": "Launch an incendiary grenade that deals 3x damage to enemies within a radius of 1.5 units. Enemies caught in the fire take 0.5x damage every 0.33 seconds for 2 seconds.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/VzlubxW.png"
+    },
+    {
+        "ID": 29,
+        "NAME": [
+            "Sten MkII",
+            "Sten"
+        ],
+        "BUILDTIME": "01:40",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases accuracy by** 10%\n**Increases evasion by** 30%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Hand Grenade",
+        "DESC": "Throw a grenade that deals 2x damage to enemies within a radius of 2.5 units.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/ybfMyJx.png"
+    },
+    {
+        "ID": 31,
+        "NAME": [
+            "M38"
+        ],
+        "BUILDTIME": "01:30",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 5%\n**Increases rate of fire by** 10%",
+        "RARITY": 2,
+        "TYPE": "SMG",
+        "SKILL": "Stun Grenade",
+        "DESC": "Launch a stun grenade that stuns enemies within a radius of 2.5 units for 1.8 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/rpowELA.png"
+    },
+    {
+        "ID": 32,
+        "NAME": [
+            "Micro Uzi",
+            "Uzi"
+        ],
+        "BUILDTIME": "01:40",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects assault rifles**\n**Increases damage by** 18%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Incendiary Grenade",
+        "DESC": "Launch an incendiary grenade that deals 3x damage to enemies within a radius of 1.5 units. Enemies caught in the fire take 0.5x damage every 0.33 seconds for 2 seconds.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/I6psCFh.png"
+    },
+    {
+        "ID": 33,
+        "NAME": [
+            "m45"
+        ],
+        "BUILDTIME": "01:20",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases rate of fire by** 10%\n**Increases evasion by** 10%",
+        "RARITY": 2,
+        "TYPE": "SMG",
+        "SKILL": "Smoke Grenade",
+        "DESC": "Launch a smoke grenade that decreases enemy rate of fire by 20% and movement speed by 28% within a radius of 2.5 units for 2.5 seconds.",
+        "COOLDOWN": "15s cooldown, 1s initial cooldown",
+        "IMAGE": "https://i.imgur.com/KqDyl0o.png"
+    },
+    {
+        "ID": 34,
+        "NAME": [
+            "M1",
+            "M1 Garand",
+            "Garand",
+            "Ping"
+        ],
+        "BUILDTIME": "04:00",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Locked Shot",
+        "DESC": "After aiming for 1.5 seconds, shoot the current target for 2.8x damage.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/ESLfXGk.png"
+    },
+    {
+        "ID": 35,
+        "NAME": [
+            "M1A1",
+            "M1-A1",
+            "M1 A1"
+        ],
+        "BUILDTIME": "Obtainable from: 6-6, 6-4E",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Assault Focus T",
+        "DESC": "Increase M1A1's rate of fire by 22% for 9 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/clvkZwZ.png"
+    },
+    {
+        "ID": 36,
+        "NAME": [
+            "Springfield",
+            "Springy"
+        ],
+        "BUILDTIME": "04:25",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Steady Shot",
+        "DESC": "After aiming for 1.5 seconds, shoot the furthest target for 3x damage.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/f0MlhHY.png"
+    },
+    {
+        "ID": 37,
+        "NAME": [
+            "M14"
+        ],
+        "BUILDTIME": "03:40",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Damage Focus",
+        "DESC": "Increase M14's damage by 35% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/XxmnmdO.png"
+    },
+    {
+        "ID": 38,
+        "NAME": [
+            "M21"
+        ],
+        "BUILDTIME": "Obtainable from: 4-6, 4-4E",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Aimed Shot",
+        "DESC": "After aiming for 1.5 seconds, shoot a specific target for 2.8x damage.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/ApfskJE.png"
+    },
+    {
+        "ID": 39,
+        "NAME": [
+            "Mosin-Nagant",
+            "Mosin",
+            "Comrade Dog"
+        ],
+        "BUILDTIME": "04:10",
+        "TILE": "⚫⚫⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Steady Shot",
+        "DESC": "After aiming for 1.5 seconds, shoot the furthest target for 3x damage.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/BiJ1lqT.png"
+    },
+    {
+        "ID": 40,
+        "NAME": [
+            "SVT-38",
+            "SVT 38",
+            "SVT38"
+        ],
+        "BUILDTIME": "03:30",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 10%",
+        "RARITY": 2,
+        "TYPE": "RF",
+        "SKILL": "Aimed Shot",
+        "DESC": "After aiming for 1.5 seconds, shoot a specific target for 2.5x damage.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/keTrZp8.png"
+    },
+    {
+        "ID": 41,
+        "NAME": [
+            "SKS"
+        ],
+        "BUILDTIME": "03:30",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects handguns**\n**Reduces skill cooldown by** 10%",
+        "RARITY": 2,
+        "TYPE": "RF",
+        "SKILL": "Assault Focus",
+        "DESC": "Increase Simonov's rate of fire by 32% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/LRCOYR8.png"
+    },
+    {
+        "ID": 42,
+        "NAME": [
+            "PTRD"
+        ],
+        "BUILDTIME": "04:30",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Interdiction Shot",
+        "DESC": "After aiming for 2 seconds, shoot the nearest target for 3.2x damage.",
+        "COOLDOWN": "20s cooldown, 15s initial cooldown",
+        "IMAGE": "https://i.imgur.com/AafZInx.png"
+    },
+    {
+        "ID": 43,
+        "NAME": [
+            "SVD"
+        ],
+        "BUILDTIME": "04:15",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Assault Focus",
+        "DESC": "Increase SVD's rate of fire by 40% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/J748gUc.png"
+    },
+    {
+        "ID": 44,
+        "NAME": [
+            "SV-98",
+            "SV98",
+            "SV 98"
+        ],
+        "BUILDTIME": "03:40",
+        "TILE": "⚫⚫⚫\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Interdiction Shot",
+        "DESC": "After aiming for 1.5 seconds, shoot a specific target for 2.8x damage.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/ErlC9rG.png"
+    },
+    {
+        "ID": 46,
+        "NAME": [
+            "Kar98k",
+            "Kar",
+            "K98"
+        ],
+        "BUILDTIME": "04:40",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Chain Shot",
+        "DESC": "Takes two aimed shots, aiming for 1 second each time and shooting the current target for 1.5x damage.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/afzkN5b.png"
+    },
+    {
+        "ID": 47,
+        "NAME": [
+            "G43"
+        ],
+        "BUILDTIME": "03:10",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 10%",
+        "RARITY": 2,
+        "TYPE": "RF",
+        "SKILL": "Assault Focus N",
+        "DESC": "Increase G43's rate of fire by 45% for 3 seconds, 15% during day.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/uohdY3c.png"
+    },
+    {
+        "ID": 48,
+        "NAME": [
+            "WA2000",
+            "WA",
+            "WA 2000"
+        ],
+        "BUILDTIME": "04:50",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Assault Focus",
+        "DESC": "Increase WA2000's rate of fire by 45% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/2Bxhghz.png"
+    },
+    {
+        "ID": 50,
+        "NAME": [
+            "Lee Enfield",
+            "Lee",
+            "Enfield"
+        ],
+        "BUILDTIME": "05:00",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects handguns**\n**Reduces skill cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Damage Focus",
+        "DESC": "Increase Lee-Enfield's damage by 45% for 8 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/lbVK3hK.png"
+    },
+    {
+        "ID": 51,
+        "NAME": [
+            "FF FN-49",
+            "FN49",
+            "FN 49",
+            "FN-49"
+        ],
+        "BUILDTIME": "03:10",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 10%",
+        "RARITY": 2,
+        "TYPE": "RF",
+        "SKILL": "Damage Focus",
+        "DESC": "Increase FN-49's damage by 32% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/bySQUfG.png"
+    },
+    {
+        "ID": 52,
+        "NAME": [
+            "VM59"
+        ],
+        "BUILDTIME": "03:20",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 10%",
+        "RARITY": 2,
+        "TYPE": "RF",
+        "SKILL": "Assault Focus",
+        "DESC": "Increase VM59's rate of fire by 32% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Y0Eg3A1.png"
+    },
+    {
+        "ID": 53,
+        "NAME": [
+            "NTW-20",
+            "NTW20",
+            "NTW 20"
+        ],
+        "BUILDTIME": "04:45",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Interdiction Shot",
+        "DESC": "After aiming for 2 seconds, shoot the nearest target for 3.5x damage.",
+        "COOLDOWN": "20s cooldown, 15s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Objhb4E.png"
+    },
+    {
+        "ID": 54,
+        "NAME": [
+            "M16A1",
+            "M16-A1",
+            "M16 A1"
+        ],
+        "BUILDTIME": "Story Drop: 4-6",
+        "TILE": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵\n**Affects submachine guns**\n**Increases evasion by** 12%\n**Increases damage by** 10%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Stun Grenade",
+        "DESC": "Launch a stun grenade that stuns enemies within a 2.5 unit radius for 2.2 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/pm0VA1r.png"
+    },
+    {
+        "ID": 55,
+        "NAME": [
+            "M4A1",
+            "M4-A1",
+            "M4 A1"
+        ],
+        "BUILDTIME": "Story Drop: 2-6",
+        "TILE": "⚫🔵🔵\n⚫⚪🔵\n⚫🔵🔵\n**Affects assault rifles**\n**Increases damage by** 18%\n**Increases critical hit rate by** 30%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus T",
+        "DESC": "Increase M4A1's damage by 40% for 6 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Gq1pNNX.png"
+    },
+    {
+        "ID": 56,
+        "NAME": [
+            "M4 SOPMOD II",
+            "Soppu",
+            "Sopmod",
+            "M4 Sopmod"
+        ],
+        "BUILDTIME": "Story Drop: 3-3",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns**\n**Increase evasion by** 12%\n**Increase accuracy by** 50%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Anti-personnel Grenade",
+        "DESC": "Launch a grenade that deals 5x damage to enemies within a 1.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/i9qwWK8.png"
+    },
+    {
+        "ID": 57,
+        "NAME": [
+            "ST AR15",
+            "Saint",
+            "AR 15",
+            "AR15",
+            "AR-15",
+            "Saint AR 15",
+            "Saint 15",
+            "Saint AR-15",
+            "ST AR",
+            "STAR"
+        ],
+        "BUILDTIME": "Story Drop: 3-6",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns**\n**Increases evasion by** 12%\n**Increases rate of fire by** 10%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Assault Focus T",
+        "DESC": "Increase ST AR-15's rate of fire by 25% for 9 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/RMvaTO2.png"
+    },
+    {
+        "ID": 58,
+        "NAME": [
+            "AK-47",
+            "AK",
+            "AK47",
+            "AK 47"
+        ],
+        "BUILDTIME": "03:20",
+        "TILE": "⚫⚫⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects submachine guns**\n**Increases evasion by** 18%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "Strike Focus",
+        "DESC": "Increase AK-47s damage by 15% and accuracy by 50% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/VC0fRF6.png"
+    },
+    {
+        "ID": 60,
+        "NAME": [
+            "AS Val",
+            "Val",
+            "ASVal",
+            "AS-Val"
+        ],
+        "BUILDTIME": "03:30",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫⚫⚫\n**Affects submachine guns**\n**Increases rate of fire by** 10%\n**Increases damage by** 25%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus N",
+        "DESC": "During nighttime, increase AS Val's damage by 110% for 3.5 seconds, 35% during day.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/v61SHrM.png"
+    },
+    {
+        "ID": 61,
+        "NAME": [
+            "StG44",
+            "StG-44",
+            "StG 44"
+        ],
+        "BUILDTIME": "03:00",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects submachine guns**\n**Increases accuracy by** 60%\n**Increases evasion by** 20%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "High-explosive Grenade",
+        "DESC": "Launch a grenade that deals 1.8x/0.7x/0.4x damage to enemies within a 1/2.5/4 unit radius respectively.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/b7VzyDh.png"
+    },
+    {
+        "ID": 62,
+        "NAME": [
+            "Gr G41",
+            "G41"
+        ],
+        "BUILDTIME": "04:05",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increase evasion by** 15%\n**Increase accuracy by** 50%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus T",
+        "DESC": "Increase G41's damage by 45% for 6 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/5DRo1ZN.png"
+    },
+    {
+        "ID": 63,
+        "NAME": [
+            "Gr G3",
+            "G3"
+        ],
+        "BUILDTIME": "02:50",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫⚫⚫\n**Affects submachine guns**\n**Increases accuracy by** 50%\n**Increases rate of fire by** 20%",
+        "RARITY": 2,
+        "TYPE": "AR",
+        "SKILL": "Anti-personnel Grenade",
+        "DESC": "Launch a grenade that deals 4x damage to enemies within a 1.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Z98mEXs.png"
+    },
+    {
+        "ID": 64,
+        "NAME": [
+            "Gr G36",
+            "G36"
+        ],
+        "BUILDTIME": "03:40",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns**\n**Increases rate of fire by** 10%\n**Increases damage by** 30%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus T",
+        "DESC": "Increase G36's damage by 40% for 6 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/PBFHRna.png"
+    },
+    {
+        "ID": 65,
+        "NAME": [
+            "416",
+            "HK416",
+            "HK 416",
+            "HK-416"
+        ],
+        "BUILDTIME": "03:55",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects submachine guns**\n**Increases damage by** 40%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Anti-Personnel Grenade",
+        "DESC": "Launch a grenade that deals 6x damage to enemies within a 1.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/9H3qkYw.png"
+    },
+    {
+        "ID": 66,
+        "NAME": [
+            "Type56-1",
+            "Type 56-1",
+            "Type56 1"
+        ],
+        "BUILDTIME": "03:25",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects submachine guns**\n**Increases critical rate by** 10%\n**Increases evasion by** 15%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "High-explosive Grenade",
+        "DESC": "Launch a grenade that deals 2x/0.8x/0.4x damage to enemies within a 1/2.5/4 unit radius respectively.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Od1rAn6.png"
+    },
+    {
+        "ID": 68,
+        "NAME": [
+            "L85A1",
+            "L85-A1",
+            "L85 A1"
+        ],
+        "BUILDTIME": "02:50",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫⚫⚫\n**Affects submachine guns**\n**Increases accuracy by** 50%\n**Increases damage by** 20%",
+        "RARITY": 2,
+        "TYPE": "AR",
+        "SKILL": "Charge Focus",
+        "DESC": "Increase L85A1's damage by 20% and rate of fire by 10% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/DMAf1KS.png"
+    },
+    {
+        "ID": 69,
+        "NAME": [
+            "Fr FAMAS",
+            "FMS",
+            "FAMAS"
+        ],
+        "BUILDTIME": "03:30",
+        "TILE": "⚫⚫⚫\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases accuracy by** 60%\n**Increases damage by** 25%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "High-explosive Grenade",
+        "DESC": "Launch a grenade that deals 2x/0.8x/0.4x damage to enemies within a 1/2.5/4 unit radius respectively.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/C1RvJcI.png"
+    },
+    {
+        "ID": 70,
+        "NAME": [
+            "FFC",
+            "FNC"
+        ],
+        "BUILDTIME": "03:20",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫\n**Affects submachine guns**\n**Increases evasion by** 12%\n**Increases accuracy by** 50%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus",
+        "DESC": "Increase FNC's damage by 35% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/FUM26xR.png"
+    },
+    {
+        "ID": 71,
+        "NAME": [
+            "Galil"
+        ],
+        "BUILDTIME": "02:40",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects submachine guns**\n**Increases evasion by** 12%\n**Increases accuracy by** 50%",
+        "RARITY": 2,
+        "TYPE": "AR",
+        "SKILL": "Precision Focus",
+        "DESC": "Increase Galil's accuracy by 200% for 9 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/kGJA6Ow.png"
+    },
+    {
+        "ID": 72,
+        "NAME": [
+            "Tar21",
+            "Tar-21",
+            "Tar 21"
+        ],
+        "BUILDTIME": "03:30",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases evasion by** 18%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Charge Focus",
+        "DESC": "Increase TAR-21's damage by 45% and rate of fire by 15% for 3 seconds.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/RvIjMOL.png"
+    },
+    {
+        "ID": 73,
+        "NAME": [
+            "AUG",
+            "Steyr AUG",
+            "AUG Steyr",
+            "Tatsuta",
+            "Steyr-AUG",
+            "AUG-Steyr"
+        ],
+        "BUILDTIME": "Shadow Orders point event reward: 1800 points",
+        "TILE": "⚫🔵🔵\n⚫⚪🔵\n⚫🔵🔵\n**Affects all guns**\n**Increases damage by** 12%\n**Increases accuracy by** 20%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Funeral Rain",
+        "DESC": "Sacrifice 30% accuracy to spray at 150 rate of fire for 3 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/XYln6Ja.png"
+    },
+    {
+        "ID": 74,
+        "NAME": [
+            "SIG-510",
+            "SIG 510",
+            "SIG510"
+        ],
+        "BUILDTIME": "02:40",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases rate of fire by** 10%\n**Increases damage by** 20%",
+        "RARITY": 2,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus",
+        "DESC": "Increase SIG-510's damage by 32% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/XH4k7cL.png"
+    },
+    {
+        "ID": 75,
+        "NAME": [
+            "M1918",
+            "Auntie BAR",
+            "BAR",
+            "BAR-san"
+        ],
+        "BUILDTIME": "06:25",
+        "TILE": "⚫⚫⚫\n⚪⚫🔵\n⚫⚫⚫\n**Affects shotguns**\n**Increases armor by** 10%\n**Increases damage by** 15%",
+        "RARITY": 4,
+        "TYPE": "MG",
+        "SKILL": "Damage Focus MG",
+        "DESC": "Increase M1918's damage by 25% for 4 seconds.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/d4BgveB.png"
+    },
+    {
+        "ID": 77,
+        "NAME": [
+            "M2HB"
+        ],
+        "BUILDTIME": "06:10",
+        "TILE": "⚫⚫⚫\n⚪⚫🔵\n⚫⚫⚫\n**Affects shotguns**\n**Increases damage by** 22%",
+        "RARITY": 3,
+        "TYPE": "MG",
+        "SKILL": "Terminating Barrage",
+        "DESC": "After every 3 hits, the next will inflict 1.2x damage",
+        "COOLDOWN": "Passive",
+        "IMAGE": "https://i.imgur.com/SUnh2So.png"
+    },
+    {
+        "ID": 78,
+        "NAME": [
+            "M60"
+        ],
+        "BUILDTIME": "06:10",
+        "TILE": "⚪⚫🔵\n⚫⚫⚫\n⚫⚫🔵\n**Affects shotguns**\n**Increases rate of fire by** 8%\n**Increases damage by** 10%",
+        "RARITY": 4,
+        "TYPE": "MG",
+        "SKILL": "Damage Focus N-MG",
+        "DESC": "During nighttime, increase M60's damage by 40% for 4 seconds, 12% during daytime.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/mZ3p935.png"
+    },
+    {
+        "ID": 79,
+        "NAME": [
+            "FF M249 SAW",
+            "SAW",
+            "M249",
+            "M249 SAW",
+            "fluffy"
+        ],
+        "BUILDTIME": "Obtainable from: 5-6, 5-4E",
+        "TILE": "⚫⚫⚫\n⚪⚫🔵\n⚫⚫🔵\n**Affects shotguns**\n**Increases rate of fire by** 12%\n**Increases accuracy by** 10%",
+        "RARITY": 3,
+        "TYPE": "MG",
+        "SKILL": "Lock and Load N",
+        "DESC": "During nighttime, increase M249's damage by 25% and rounds by 1 for 6 seconds, 5% damage during daytime.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/g0P8SmR.png"
+    },
+    {
+        "ID": 80,
+        "NAME": [
+            "M1919A4",
+            "M1919-A4",
+            "M1919 A4"
+        ],
+        "BUILDTIME": "05:40",
+        "TILE": "⚫⚫🔵\n⚫⚫⚫\n⚪⚫⚫\n**Affects shotguns**\n**Increases accuracy by** 25%\n**Increases armour by** 10%",
+        "RARITY": 3,
+        "TYPE": "MG",
+        "SKILL": "Hunting Impulse",
+        "DESC": "Increase M1919A4's accuracy by 25%, all hits will be critical for 1 second.",
+        "COOLDOWN": "18s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Jv4vWKN.png"
+    },
+    {
+        "ID": 81,
+        "NAME": [
+            "LWMMG"
+        ],
+        "BUILDTIME": "05:10",
+        "TILE": "⚫⚫⚫\n⚪⚫🔵\n⚫⚫⚫\n**Affects shotguns**\n**Increases rate of fire by** 10%\n**Increases damage by** 10%",
+        "RARITY": 2,
+        "TYPE": "MG",
+        "SKILL": "Hunting Impulse",
+        "DESC": "Increase LWMMG's accuracy by 22%, all hits will be critical for 1 second.",
+        "COOLDOWN": "18s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/mmp4D9G.png"
+    },
+    {
+        "ID": 82,
+        "NAME": [
+            "DP28",
+            "DP-28",
+            "DP 28",
+            "Comrade Boobs"
+        ],
+        "BUILDTIME": "05:00",
+        "TILE": "⚫⚫🔵\n⚫⚫⚫\n⚪⚫🔵\n**Affects shotguns**\n**Increases rate of fire by** 15%",
+        "RARITY": 2,
+        "TYPE": "MG",
+        "SKILL": "Lock and Load",
+        "DESC": "Increase DP28's damage by 16% for 6 seconds and rounds by 1.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/QuZtK9D.png"
+    },
+    {
+        "ID": 84,
+        "NAME": [
+            "RPD"
+        ],
+        "BUILDTIME": "0Login Reward: September",
+        "TILE": ":⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵\n***Affects shotguns***\n***Increases rate of fire by*** 16%",
+        "RARITY": 3,
+        "TYPE": "MG",
+        "SKILL": "Damage Focus MG",
+        "DESC": "Increase RPD's damage by 22% for 4 seconds.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/IhC0RHw.png"
+    },
+    {
+        "ID": 85,
+        "NAME": [
+            "PK"
+        ],
+        "BUILDTIME": "06:30",
+        "TILE": "⚫⚫🔵\n⚪⚫🔵\n⚫⚫⚫\n**Affects shotguns**\n**Increases damage by** 18%",
+        "RARITY": 4,
+        "TYPE": "MG",
+        "SKILL": "Terminating Barrage",
+        "DESC": "After every 3 hits, the next will inflict 1.5x damage.",
+        "COOLDOWN": "Passive",
+        "IMAGE": "https://i.imgur.com/lhixtaI.png"
+    },
+    {
+        "ID": 86,
+        "NAME": [
+            "MG42",
+            "MG-42",
+            "MG 42",
+            "Buzzsaw"
+        ],
+        "BUILDTIME": "05:50",
+        "TILE": "⚪⚫⚫\n⚫⚫⚫\n⚫⚫🔵\n**Affects shotguns**\n**Increases damage by** 22%",
+        "RARITY": 3,
+        "TYPE": "MG",
+        "SKILL": "Damage Focus MG",
+        "DESC": "Increase MG42's damage by 22% for 4 seconds.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/uR0eeok.png"
+    },
+    {
+        "ID": 87,
+        "NAME": [
+            "MG34",
+            "MG 34",
+            "MG-34"
+        ],
+        "BUILDTIME": "05:00",
+        "TILE": "⚫⚫🔵\n⚫⚫⚫\n⚪⚫⚫\n**Affects shotguns**\n**Increases damage by** 20%",
+        "RARITY": 2,
+        "TYPE": "MG",
+        "SKILL": "Damage Focus MG",
+        "DESC": "Increase MG34's damage by 20% for 4 seconds.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/kxDytAQ.png"
+    },
+    {
+        "ID": 88,
+        "NAME": [
+            "MG3",
+            "MG 3",
+            "MG-3"
+        ],
+        "BUILDTIME": "06:30",
+        "TILE": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵\n**Affects shotguns**\n**Increases accuracy by** 15%\n**Increases damage by** 10%",
+        "RARITY": 4,
+        "TYPE": "MG",
+        "SKILL": "Lock and Load",
+        "DESC": "Increase MG3's damage by 18% for 6 seconds and rounds by 1.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/32Gf6s1.png"
+    },
+    {
+        "ID": 89,
+        "NAME": [
+            "Bren"
+        ],
+        "BUILDTIME": "05:20",
+        "TILE": "⚪⚫🔵\n⚫⚫⚫\n⚫⚫🔵\n**Affects shotguns**\n**Increases rate of fire by** 10%\n**Increases accuracy by** 12%",
+        "RARITY": 3,
+        "TYPE": "MG",
+        "SKILL": "Lock and Load",
+        "DESC": "Increase Bren's damage by 18% for 6 seconds and rounds by 1.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/1V0U6J7.png"
+    },
+    {
+        "ID": 90,
+        "NAME": [
+            "FF FNP9",
+            "FNP9",
+            "FNP-9",
+            "FNP 9",
+            "FF FNP-9",
+            "FF FNP 9"
+        ],
+        "BUILDTIME": "00:25",
+        "TILE": "⚫🔵🔵\n⚫⚪🔵\n⚫🔵🔵\n**Affects all guns**\n**Increases rate of fire by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)\n**Increases accuracy by**\n20%(x1) / 25%(x2) / 30%(x3) / 35%(x4) / 40%(x5)",
+        "RARITY": 2,
+        "TYPE": "HG",
+        "SKILL": "Cover Suppression",
+        "DESC": "Decrease enemy evasion by 32% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/7yzdsI5.png"
+    },
+    {
+        "ID": 91,
+        "NAME": [
+            "MP-446",
+            "MP446",
+            "MP 446"
+        ],
+        "BUILDTIME": "00:25",
+        "TILE": "🔵🔵⚫\n🔵⚪⚫\n🔵🔵⚫\n**Affects all guns**\n**Increases damage by**\n14%(x1) / 18%(x2) / 21%(x3) / 25%(x4) / 28%(x5)",
+        "RARITY": 2,
+        "TYPE": "HG",
+        "SKILL": "Assault Suppression",
+        "DESC": "Decrease enemy rate of fire by 12% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/41ZGaf1.png"
+    },
+    {
+        "ID": 92,
+        "NAME": [
+            "Spectre",
+            "Spectre M4"
+        ],
+        "BUILDTIME": "01:20",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫\n**Affects assault rifles**\n**Increases damage by** 20%",
+        "RARITY": 2,
+        "TYPE": "SMG",
+        "SKILL": "Evasion Focus",
+        "DESC": "Increase Spectre's evasion by 60% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/30Fph3L.png"
+    },
+    {
+        "ID": 93,
+        "NAME": [
+            "IDW",
+            "NYA",
+            "DA NYA"
+        ],
+        "BUILDTIME": "01:10",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases evasion by** 20%\n**Increases Increases critical hit rate by** 10%",
+        "RARITY": 2,
+        "TYPE": "SMG",
+        "SKILL": "Evasion Focus",
+        "DESC": "Increase IDW's evasion by 60% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/CJG778Q.png"
+    },
+    {
+        "ID": 94,
+        "NAME": [
+            "Type64",
+            "Type 64",
+            "Type-64"
+        ],
+        "BUILDTIME": "01:25",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫\n**Affects assault rifles**\n**Increases rate of fire by** 24%",
+        "RARITY": 2,
+        "TYPE": "SMG",
+        "SKILL": "Stun Grenade",
+        "DESC": "Launch a stun grenade that stuns enemies within a 2.5 unit radius for 1.8 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/8mc6egK.png"
+    },
+    {
+        "ID": 95,
+        "NAME": [
+            "Type88",
+            "Type-88",
+            "Type 88"
+        ],
+        "BUILDTIME": "03:50",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Damage Focus N",
+        "DESC": "During nighttime, increase Type 88's damage by 50% for 3.5 seconds, 16% during daytime.",
+        "COOLDOWN": "10s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/RRoWtW4.png"
+    },
+    {
+        "ID": 96,
+        "NAME": [
+            "Grizzly",
+            "Griz"
+        ],
+        "BUILDTIME": "01:10",
+        "TILE": "🔵🔵⚫\n⚫⚪🔵\n🔵🔵⚫\n**Affects all guns**\n**Increases damage by**\n15%(x1) / 19%(x2) / 23%(x3) / 27%(x4) / 30%(x5)\n**Increases evasion by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)",
+        "RARITY": 5,
+        "TYPE": "HG",
+        "SKILL": "Fire Command",
+        "DESC": "Increase allies' damage by 15% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/PRBxkIi.png"
+    },
+    {
+        "ID": 97,
+        "NAME": [
+            "M950A",
+            "M950 A",
+            "M950-A"
+        ],
+        "BUILDTIME": "01:05",
+        "TILE": "🔵⚫🔵\n⚫⚪⚫\n🔵⚫🔵\n**Affects all guns**\n**Increases rate of fire by**\n15%(x1) / 19%(x2) / 23%(x3) / 27%(x4) / 30%(x5)\n**Increases accuracy by**\n25%(x1) / 32%(x2) / 38%(x3) / 44%(x4) / 50%(x5)",
+        "RARITY": 5,
+        "TYPE": "HG",
+        "SKILL": "Assault Command",
+        "DESC": "Increase allies' rate of fire by 15% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/2zjimZ0.png"
+    },
+    {
+        "ID": 98,
+        "NAME": [
+            "SPP-1",
+            "SPP1",
+            "SPP-1"
+        ],
+        "BUILDTIME": "Event Reward: E2 Operation Cube",
+        "TILE": "🔵🔵⚫\n⚫⚪⚫\n🔵🔵⚫\n**Affects all guns**\n**Increases accuracy by** 45%(x1) / 57%(x2) / 68%(x3) / 79%(x4) / 90%(x5)\n**Increases damage by** 6%(x1) / 8%(x2) / 9%(x3) / 11%(x4) / 12%(x5)",
+        "RARITY": 4,
+        "TYPE": "HG",
+        "SKILL": "Cover Suppression",
+        "DESC": "Decrease enemy evasion by 40% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/nlMLSdk.png"
+    },
+    {
+        "ID": 99,
+        "NAME": [
+            "Gr Mk23",
+            "Mk23",
+            "GrMk23"
+        ],
+        "BUILDTIME": "00:50",
+        "TILE": "🔵⚫⚫\n🔵⚪🔵\n🔵⚫⚫\n**Affects all guns**\n**Increases damage by**\n18%(x1) / 23%(x2) / 27%(x3) / 32%(x4) / 36%(x5)",
+        "RARITY": 4,
+        "TYPE": "HG",
+        "SKILL": "Fire Command N",
+        "DESC": "During nighttime, increase allies' damage by 18% for 5 seconds. During daytime, increase allies' damage by 10% for 3 seconds instead.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/DgpzAz6.png"
+    },
+    {
+        "ID": 100,
+        "NAME": [
+            "P7"
+        ],
+        "BUILDTIME": "00:55",
+        "TILE": "🔵🔵🔵\n⚫⚪⚫\n🔵🔵🔵\n**Affects all guns**\n**Increases evasion by**\n12%(x1) / 15%(x2) / 18%(x3) / 21%(x4) / 24%(x5)\n**Increases rate of fire by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)",
+        "RARITY": 4,
+        "TYPE": "HG",
+        "SKILL": "Cover Command",
+        "DESC": "Increase allies' evasion by 35% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/rCIvTOJ.png"
+    },
+    {
+        "ID": 101,
+        "NAME": [
+            "UMP9",
+            "UMP 9",
+            "UMP-9"
+        ],
+        "BUILDTIME": "02:15",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases accuracy by** 30%\n**Increases rate of fire by** 12%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Stun Grenade",
+        "DESC": "Launch a stun grenade that stuns enemies within a 2.5 unit radius for 2.2 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/xXjfZ2P.png"
+    },
+    {
+        "ID": 103,
+        "NAME": [
+            "UMP45",
+            "UMP 45",
+            "UMP-45"
+        ],
+        "BUILDTIME": "02:15",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 18%\n**Increases critical hit rate by** 30%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Smoke Grenade",
+        "DESC": "Launch a smoke grenade that decreases enemy rate of fire by 25% and movement speed by 30% within a 2.5 unit radius for 2.5 seconds.",
+        "COOLDOWN": "16s cooldown, 1s initial cooldown",
+        "IMAGE": "https://i.imgur.com/AnQuFTd.png"
+    },
+    {
+        "ID": 104,
+        "NAME": [
+            "Gr G36C",
+            "G36C",
+            "G36-C",
+            "GrG36C",
+            "GrG36-C",
+            "G36 C",
+            "Gr G36 C"
+        ],
+        "BUILDTIME": "02:30",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by 10%**\n**Increases rate of fire by** 8%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Force Shield",
+        "DESC": "Evade all incoming attacks for 2 seconds.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/TrxpYT6.png"
+    },
+    {
+        "ID": 105,
+        "NAME": [
+            "OTs-12",
+            "OTs 12",
+            "OTs12"
+        ],
+        "BUILDTIME": "03:10",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫⚫\n**Affects submachine guns**\n**Increases rate of fire by** 20%\n**Increases damage by** 15%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "Assault Focus T",
+        "DESC": "Increase OTs-12's rate of fire by 35% for 6 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/21XzucD.png"
+    },
+    {
+        "ID": 106,
+        "NAME": [
+            "FAL"
+        ],
+        "BUILDTIME": "03:45",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns**\n**Increases evasion by** 20%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Grenade Salvo",
+        "DESC": "Launch 3 grenades consecutively that deal 2.5x damage to enemies within a 1.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/LuCxnfw.png"
+    },
+    {
+        "ID": 107,
+        "NAME": [
+            "F2000"
+        ],
+        "BUILDTIME": "02:45",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects submachine guns**\n**Increases evasion by** 10%\n**Increases damage by** 20%",
+        "RARITY": 2,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus",
+        "DESC": "Increase F2000's damage by 32% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/gL22xyH.png"
+    },
+    {
+        "ID": 108,
+        "NAME": [
+            "CZ-805",
+            "CZ 805",
+            "CZ805"
+        ],
+        "BUILDTIME": "Obtainable from: 3-6, 3-4E",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases accuracy by** 50%\n**Increases rate of fire by** 25%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "High-Explosive Grenade",
+        "DESC": "Launch a grenade that deals 1.8x/0.7x/0.4x damage to enemies within a 1/2.5/4 unit radius respectively.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/DXAe2Po.png"
+    },
+    {
+        "ID": 109,
+        "NAME": [
+            "Gr MG5",
+            "MG5",
+            "GrMG5",
+            "Gr-MG5"
+        ],
+        "BUILDTIME": "06:45",
+        "TILE": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵\n**Affects shotguns**\n**Increases damage by** 10%\n**Increases armor by** 10%",
+        "RARITY": 5,
+        "TYPE": "MG",
+        "SKILL": "Terminating Barrage",
+        "DESC": "After every 3 hits, the next will inflict 1.5x damage.",
+        "COOLDOWN": "Passive",
+        "IMAGE": "https://i.imgur.com/jZs5qWo.png"
+    },
+    {
+        "ID": 110,
+        "NAME": [
+            "FG42"
+        ],
+        "BUILDTIME": "04:50",
+        "TILE": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵\n**Affects shotguns**\n**Increases accuracy by** 30%",
+        "RARITY": 2,
+        "TYPE": "MG",
+        "SKILL": "Hunting Impulse",
+        "DESC": "Increase FG42's accuracy by 22% and all hits are critical for 1 second.",
+        "COOLDOWN": "18s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/uB0dv61.png"
+    },
+    {
+        "ID": 111,
+        "NAME": [
+            "AAT-52",
+            "AAT 52",
+            "AAT52"
+        ],
+        "BUILDTIME": "04:50",
+        "TILE": "⚪⚫⚫\n⚫⚫⚫\n⚫⚫🔵\n**Affects shotguns**\n**Increases rate of fire by** 20%",
+        "RARITY": 2,
+        "TYPE": "MG",
+        "SKILL": "Damage Focus N-MG",
+        "DESC": "During nighttime, increase AAT-52's damage by 32% for 4 seconds, 10% during daytime.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/w3OiO5L.png"
+    },
+    {
+        "ID": 112,
+        "NAME": [
+            "Negev"
+        ],
+        "BUILDTIME": "06:35",
+        "TILE": "⚫⚫🔵\n⚪⚫🔵\n⚫⚫🔵\n**Affects shotguns**\n**Increases armour by** 20%",
+        "RARITY": 5,
+        "TYPE": "MG",
+        "SKILL": "Maniac Blood",
+        "DESC": "Increase damage by 25% after each reload. Effect stacks, each stack lasting 25 seconds.",
+        "COOLDOWN": "1s cooldown, 0s initial cooldown",
+        "IMAGE": "https://i.imgur.com/fTPdeUo.png"
+    },
+    {
+        "ID": 114,
+        "NAME": [
+            "Welrod Mk II",
+            "Welrod",
+            "Welrod II",
+            "Welrod MKII"
+        ],
+        "BUILDTIME": "01:00",
+        "TILE": "🔵🔵⚫\n🔵⚪⚫\n🔵🔵⚫\n**Affects all guns**\n**Increases damage by**\n10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)\n**Increases rate of fire by**\n8%(x1) / 10%(x2) / 12%(x3) / 14%(x4) / 16%(x5)",
+        "RARITY": 5,
+        "TYPE": "HG",
+        "SKILL": "Precision Suppression",
+        "DESC": "Decrease enemy accuracy by 30% for 4 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/gu5htkf.png"
+    },
+    {
+        "ID": 115,
+        "NAME": [
+            "Suomi"
+        ],
+        "BUILDTIME": "02:25",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases rate of fire by** 15%\n**Increases accuracy by** 30%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Evasion Focus",
+        "DESC": "Increase Suomi's evasion by 80% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/wr5VoSP.png"
+    },
+    {
+        "ID": 116,
+        "NAME": [
+            "Z-62",
+            "Z62",
+            "Z 62"
+        ],
+        "BUILDTIME": "Event Drop: E2, E3, E4 Operation Cube",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 12%\n**Increases evasion by** 10%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Incendiary Grenade",
+        "DESC": "Launch an incendary grenade that deals 3x damage to enemies within a 1.5 unit radius. Enemies caught in the fire take 0.5x damage every 0.33 seconds for 2 seconds.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/yPcZxbH.png"
+    },
+    {
+        "ID": 117,
+        "NAME": [
+            "Gr PSG-1",
+            "PSG1",
+            "PSG-1",
+            "PSG 1",
+            "GrPSG1",
+            "GrPSG-1",
+            "GrPSG 1",
+            "Gr-PSG1",
+            "Gr-PSG-1",
+            "Gr-PSG 1"
+        ],
+        "BUILDTIME": "Event Drop: E4 Operation Cube",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Steady Shot",
+        "DESC": "After aiming for 1.5 seconds, shoot the furthest target for 3x damage.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/l08Hfzt.png"
+    },
+    {
+        "ID": 118,
+        "NAME": [
+            "9A-91",
+            "9A91",
+            "9A 91"
+        ],
+        "BUILDTIME": "03:35",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachineguns**\n**Increases evasion by** 15%\n**Increases rate of fire by** 10%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus N",
+        "DESC": "During nighttime, increase 9A-91's damage by 110% for 3.5 seconds, 35% during daytime.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/JH4yL5l.png"
+    },
+    {
+        "ID": 119,
+        "NAME": [
+            "OTs-14",
+            "OTs14",
+            "OTS 14"
+        ],
+        "BUILDTIME": "Event Reward: E4 Operation Cube",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns**\n**Increases accuracy by** 65%\n**Increases rate of fire by** 25%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus N",
+        "DESC": "During nighttime, increase OTs-14's damage by 120% for 3.5 seconds, 40% during daytime.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/BCJTlKi.png"
+    },
+    {
+        "ID": 120,
+        "NAME": [
+            "ARX-160",
+            "ARX 160",
+            "ARX160"
+        ],
+        "BUILDTIME": "Event Drop: E3, E4 Operation Cube",
+        "TILE": "⚫⚫⚫\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases accuracy by** 50%\n**Increases damage by** 25%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "Anti-Personnel Grenade",
+        "DESC": "Launch a grenade that deals 4.5x damage to enemies within a 1.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/9JklqSS.png"
+    },
+    {
+        "ID": 121,
+        "NAME": [
+            "Mk48",
+            "Mk-48",
+            "Mk 48"
+        ],
+        "BUILDTIME": "06:20",
+        "TILE": "⚫⚫🔵\n⚫⚫⚫\n⚪⚫⚫\n**Affects shotguns**\n**Increases rate of fire by** 18%",
+        "RARITY": 4,
+        "TYPE": "MG",
+        "SKILL": "Hunting Impulse",
+        "DESC": "Increase Mk48's accuracy by 30% and all hits are critical for 1 second.",
+        "COOLDOWN": "18s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/OkGM7gY.png"
+    },
+    {
+        "ID": 122,
+        "NAME": [
+            "Gr G11",
+            "G11",
+            "Sleepo Beepo",
+            "GrG11",
+            "Gr-G11"
+        ],
+        "BUILDTIME": "04:04",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects submachine guns**\n**Increases evasion by** 10%\n**Increases damage by** 30%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Eye of the assaulter",
+        "DESC": "Each attack will inflict 3 hits on the target for 4.5 seconds.",
+        "COOLDOWN": "16s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/fMhkTc1.png"
+    },
+    {
+        "ID": 123,
+        "NAME": [
+            "P99"
+        ],
+        "BUILDTIME": "00:35",
+        "TILE": "⚫🔵⚫\n⚫⚪🔵\n⚫🔵⚫\n**Affects all guns**\n**Increases rate of fire by** 6%(x1) / 7%(x2) / 9%(x3) / 10%(x4) / 12%(x5)\n**Increases evasion by** 18%(x1) / 22%(x2) / 27%(x3) / 31%(x4) / 36%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Cover Command",
+        "DESC": "Increase allies' evasion by 32% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/2ngeKE0.png"
+    },
+    {
+        "ID": 124,
+        "NAME": [
+            "Super-SASS",
+            "SASS",
+            "SuperSASS",
+            "Super SASS"
+        ],
+        "BUILDTIME": "Login Reward: July 2018",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Aimed Shot",
+        "DESC": "After aiming for 1.5 seconds, shoot a specific target for 2.8x damage.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/v9RcEYe.png"
+    },
+    {
+        "ID": 125,
+        "NAME": [
+            "Gr MG4",
+            "MG4",
+            "GrMG4",
+            "Gr-MG4"
+        ],
+        "BUILDTIME": "06:40",
+        "TILE": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵\n**Affects shotguns**\n**Increases accuracy by** 12%\n**Increases armour by** 15%",
+        "RARITY": 5,
+        "TYPE": "MG",
+        "SKILL": "Lock and Load",
+        "DESC": "Increase MG4's damage by 20% for 6 seconds and rounds by 1.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/w9lbmAJ.png"
+    },
+    {
+        "ID": 126,
+        "NAME": [
+            "NZ75",
+            "NZ-75",
+            "NZ 75"
+        ],
+        "BUILDTIME": "01:05",
+        "TILE": "⚫🔵🔵\n🔵⚪🔵\n⚫🔵🔵\n**Affects all guns**\n**Increases damage by**\n10%(x1) / 12%(x2) / 15%(x3) / 17%(x4) / 20%(x5)\n**Increases evasion by**\n15%(x1) / 18%(x2) / 22%(x3) / 26%(x4) / 30%(x5)",
+        "RARITY": 5,
+        "TYPE": "HG",
+        "SKILL": "Assault Suppression",
+        "DESC": "Decrease enemy rate of fire by 18% for 5 seconds",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/VVoTZI3.png"
+    },
+    {
+        "ID": 127,
+        "NAME": [
+            "Type 79",
+            "Type79",
+            "Type-79"
+        ],
+        "BUILDTIME": "02:35",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 20%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Stun Grenade",
+        "DESC": "Launch a stun grenade that stuns enemies within a 2.5 unit radius for 2.5 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/dBdvJ4G.png"
+    },
+    {
+        "ID": 128,
+        "NAME": [
+            "M99"
+        ],
+        "BUILDTIME": "04:55",
+        "TILE": "⚫⚫⚫\n⚫🔵⚪\n⚫⚫⚫\n**Affects handguns**\n**Reduce skill cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Steady Shot",
+        "DESC": "After aiming for 2 seconds, shoot the furthest target for 3.5x damage.",
+        "COOLDOWN": "20s cooldown, 15s initial cooldown",
+        "IMAGE": "https://i.imgur.com/V0RzOOJ.png"
+    },
+    {
+        "ID": 129,
+        "NAME": [
+            "Type 95",
+            "Type-95",
+            "Type95"
+        ],
+        "BUILDTIME": "03:50",
+        "TILE": "⚫⚫⚫\n⚫🔵⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases damage by** 10%\n**Increases evasion by** 18%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Damage Focus T",
+        "DESC": "Increase Type 95's damage by 30% for 9 seconds.",
+        "COOLDOWN": "20s cooldown, 2s initial cooldown",
+        "IMAGE": "https://i.imgur.com/vSOYP4h.png"
+    },
+    {
+        "ID": 130,
+        "NAME": [
+            "Type 97",
+            "Type97",
+            "Type-97"
+        ],
+        "BUILDTIME": "03:50",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫\n**Affects submachine guns**\n**Increases rate of fire by** 10%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Assault Focus T",
+        "DESC": "Increase Type 97's rate of fire by 30% for 9 seconds.",
+        "COOLDOWN": "20s cooldown, 2s initial cooldown",
+        "IMAGE": "https://i.imgur.com/T5U5fpE.png"
+    },
+    {
+        "ID": 131,
+        "NAME": [
+            "EVO 3",
+            "EVO-3",
+            "EVO3"
+        ],
+        "BUILDTIME": "November 2018 Login Reward",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫\n**Affects assault rifles**\n**Increases accuracy by** 55%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Hand Grenade",
+        "DESC": "Throw a grenade that deals 2x damage to enemies within a 2.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/MMQhGdj.png"
+    },
+    {
+        "ID": 132,
+        "NAME": [
+            "Type 59",
+            "Type59"
+        ],
+        "BUILDTIME": "Login Reward, October 2018",
+        "TILE": "⚫🔵🔵\n⚫⚪🔵\n⚫🔵🔵\n**Affects all guns**\n**Increases damage by** 10%(x1) / 12%(x2) / 15%(x3) / 17%(x4) / 20%(x5)\n**Increases accuracy by** 25%(x1) / 31%(x2) / 37%(x3) / 43%(x4) / 50%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Cover Suppression N",
+        "DESC": "Decrease enemy evasion by 55% for 5 seconds, 30% for 3 seconds during day.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/y4HJHnC.png"
+    },
+    {
+        "ID": 133,
+        "NAME": [
+            "Type 63",
+            "Type63",
+            "Type-63"
+        ],
+        "BUILDTIME": "02:45",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects submachine guns**\n**Increases damage by** 10%\n**Increases rate of fire by** 20%",
+        "RARITY": 2,
+        "TYPE": "AR",
+        "SKILL": "Precision Focus",
+        "DESC": "Increase Type 63's accuracy by 200% for 8 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/ag0fWSV.png"
+    },
+    {
+        "ID": 134,
+        "NAME": [
+            "AR70",
+            "AR-70",
+            "AR 70"
+        ],
+        "BUILDTIME": "December Login Reward",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫\n**Affects submachine guns**\n**Increases Rate of Fire by** 16%\n**Increases Accuracy by** 75%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "Anti-Personnel Grenade",
+        "DESC": "Launch a grenade that deals 4.5 times AR70s damage to enemies within a radius of 1.5 unit.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/u4r1nGA.png"
+    },
+    {
+        "ID": 135,
+        "NAME": [
+            "SR-3MP",
+            "SR3MP",
+            "SR 3MP"
+        ],
+        "BUILDTIME": "02:33",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases rate of fire by** 18%\n**Increases crit rate by** 30%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Damage Focus",
+        "DESC": "Increase SR-3MP's damage by 160% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/S104lgH.png"
+    },
+    {
+        "ID": 137,
+        "NAME": [
+            "PP-19-01",
+            "PP1901"
+        ],
+        "BUILDTIME": "02:18",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases rate of fire by** 12%\n**Increases accuracy by** 30%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Smoke Grenade",
+        "DESC": "Throws a smoke grenade that decreases the enemy's rate of fire by 25% and movement speed by 30% within a radius of 2.5 units for 2.5 seconds.",
+        "COOLDOWN": "20s cooldown, 1s initial cooldown",
+        "IMAGE": "https://i.imgur.com/L1Q7NKV.png"
+    },
+    {
+        "ID": 138,
+        "NAME": [
+            "6P62",
+            "6P-62",
+            "6P 62"
+        ],
+        "BUILDTIME": "**Login Reward**\nMay 2018",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects submachine guns**\n**Increases damage by** 35%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "Raid Focus",
+        "DESC": "Increase 6P62s damage by 15% and accuracy by 50% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/MIiFZOY.png"
+    },
+    {
+        "ID": 139,
+        "NAME": [
+            "Bren Ten"
+        ],
+        "BUILDTIME": "00:28",
+        "TILE": "⚫🔵⚫\n🔵⚪🔵\n⚫🔵⚫\n**Affects all guns**\n**Increases damage by** 8%(x1) / 10%(x2) / 12%(x3) / 14%(x4) / 16%(x5)\n**Increases rate of fire by** 5%(x1) / 6%(x2) / 7%(x3) / 8%(x4) / 10%(x5)",
+        "RARITY": 2,
+        "TYPE": "HG",
+        "SKILL": "Fire Command",
+        "DESC": "Increase allies' damage by 10% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/dG4jKBE.png"
+    },
+    {
+        "ID": 140,
+        "NAME": [
+            "PSM"
+        ],
+        "BUILDTIME": "07-6 & 7-4E Drop",
+        "TILE": "⚫⚫🔵\n🔵⚪⚪\n⚫⚫🔵\n**Affects all guns**\n**Increases accuracy by** 28%(x1) / 35%(x2) / 42%(x3) / 49%(x4) / 56%(x5)\n**Increases evasion by** 18%(x1) / 22%(x2) / 27%(x3) / 31%(x4) / 36%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Conceal Command",
+        "DESC": "Increase allies' accuracy by 32% and evasion by 16% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/UnQUVdm.png"
+    },
+    {
+        "ID": 141,
+        "NAME": [
+            "Gr USP Compact",
+            "USP-C",
+            "USP",
+            "USP Compact"
+        ],
+        "BUILDTIME": "00:28",
+        "TILE": "🔵⚫⚫\n⚫⚪🔵\n🔵⚫⚫\n**Affects handguns**\n**Reduce skill cooldown by** 18%",
+        "RARITY": 2,
+        "TYPE": "HG",
+        "SKILL": "Precision Command",
+        "DESC": "Increase allies' accuracy by 50% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/emtoaZ8.png"
+    },
+    {
+        "ID": 142,
+        "NAME": [
+            "Five-seveN",
+            "Five seveN",
+            "5-7",
+            "FiveSeven"
+        ],
+        "BUILDTIME": "**Event reward**\nTrimagic Square",
+        "TILE": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵\n**Affects all guns**\n**Increases rate of fire by 15%**\n(x1) / 19%(x2) / 23%(x3) / 27%(x4) / 30%(x5)\n**Increases critical rate by**\n 10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)",
+        "RARITY": 5,
+        "TYPE": "HG",
+        "SKILL": "Piercing Command",
+        "DESC": "Increase allies' rate of fire by 12% and critical rate by 12% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/gmj1L97.png"
+    },
+    {
+        "ID": 143,
+        "NAME": [
+            "RO635",
+            "RO",
+            "RO 635",
+            "RO653"
+        ],
+        "BUILDTIME": "Story Drop: 7-6",
+        "TILE": "🔵🔵⚫\n🔵⚪⚫\n🔵🔵⚫\n**Affects assault rifles**\n**Increases rate of fire by** 10%\n**Increases accuracy by** 35%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Mental Shock",
+        "DESC": "Increase own evasion by 40% and decreases enemies damage by 15% for 3 seconds.",
+        "COOLDOWN": "15s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/ZannrAX.png"
+    },
+    {
+        "ID": 144,
+        "NAME": [
+            "MT-9",
+            "MT9",
+            "MT 9"
+        ],
+        "BUILDTIME": "0Login Reward: August 2018",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases evasion by** 12%\n**Increases damage by** 10%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Flashbang",
+        "DESC": "Throws a flashbang that stuns enemies within a 2.5 unit radius for 2 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Q9SBkEu.png"
+    },
+    {
+        "ID": 145,
+        "NAME": [
+            "OTs-44",
+            "OTs 44",
+            "OTs44"
+        ],
+        "BUILDTIME": "03:50",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Locked Shot",
+        "DESC": "After aiming for 2 seconds, shoot the current target for 3.0x OTs-44's damage.",
+        "COOLDOWN": "20s cooldown, 15s initial cooldown",
+        "IMAGE": "https://i.imgur.com/FIhcZ9a.png"
+    },
+    {
+        "ID": 146,
+        "NAME": [
+            "G28",
+            "G-28",
+            "HK241",
+            "HK-241",
+            "HK 241"
+        ],
+        "BUILDTIME": "04:20",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Damage Focus",
+        "DESC": "Increase G28's damage by 40% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/JGWO1Kd.png"
+    },
+    {
+        "ID": 147,
+        "NAME": [
+            "SSG 69",
+            "SSG69",
+            "SSG-69"
+        ],
+        "BUILDTIME": "January 2019 Login Reward",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Damage Focus",
+        "DESC": "Increase SSG 69's damage by 35% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/gmLxjvU.png"
+    },
+    {
+        "ID": 148,
+        "NAME": [
+            "IWS 2000",
+            "IWS",
+            "IWS-2000",
+            "IWS2000"
+        ],
+        "BUILDTIME": "04:52",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects handguns**\n**Reduce skill cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Hawk Assault",
+        "DESC": "Increase IWS-2000's damage by 80%, decreases her rate of fire by 20% for 6 seconds.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/IcMFGjk.png"
+    },
+    {
+        "ID": 149,
+        "NAME": [
+            "AEK-999",
+            "AEK",
+            "AEK999",
+            "AEK 999"
+        ],
+        "BUILDTIME": "06:20",
+        "TILE": "⚫⚫🔵\n⚪⚫⚫\n⚫⚫🔵\n**Affects shotguns**\n**Increases rate of fire by** 15%\n**Increases armor by** 10%",
+        "RARITY": 4,
+        "TYPE": "MG",
+        "SKILL": "Hunting Impulse N",
+        "DESC": "Increase AEK-999's damage by 20%, accuracy by 30% and critical hit rate to 100% for 1 seconds during night, accuracy by 10% and critical hit rate to 100% during day.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/kSW9lEl.png"
+    },
+    {
+        "ID": 150,
+        "NAME": [
+            "Shipka"
+        ],
+        "BUILDTIME": "02:18",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases rate of fire by** 15%\n**Increases evasion by** 10%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Cover Focus",
+        "DESC": "Increase Shipka's evasion by 70% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/oHQYLPu.png"
+    },
+    {
+        "ID": 151,
+        "NAME": [
+            "M1887",
+            "M-1887"
+        ],
+        "BUILDTIME": "Operation Arctic Warfare E1-4 reward",
+        "TILE": "⚫⚫⚫\n🔵⚫⚪\n⚫⚫⚫\n**Affects machineguns**\n**Increases damage by** 12%\n**Increases accuracy by** 20%",
+        "RARITY": 5,
+        "TYPE": "SG",
+        "SKILL": "Terminating shot",
+        "DESC": "M1887 inflicts 100 damage to a single target and drive it back 2 units.",
+        "COOLDOWN": "20s cooldown, 15s initial cooldown",
+        "IMAGE": "https://i.imgur.com/O93PLAy.png"
+    },
+    {
+        "ID": 153,
+        "NAME": [
+            "M37"
+        ],
+        "BUILDTIME": "07:45",
+        "TILE": "🔵⚫⚫\n⚫⚫⚪\n🔵⚫⚫\n**Affects machine guns**\n**Increases Damage by** 18%",
+        "RARITY": 4,
+        "TYPE": "SG",
+        "SKILL": "Burst Impact",
+        "DESC": "M37 performs an additional attack, which deals 1.2 times M37s damage to a single target and drive it back 2.0 units.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/EgKTotp.png"
+    },
+    {
+        "ID": 154,
+        "NAME": [
+            "M500",
+            "M-500",
+            "M 500"
+        ],
+        "BUILDTIME": "07:20",
+        "TILE": "🔵⚫⚪\n⚫⚫⚫\n🔵⚫⚫\n**Affects machineguns**\n**Increase Damage by** 18%",
+        "RARITY": 3,
+        "TYPE": "SG",
+        "SKILL": "Ironside Concentration",
+        "DESC": "Increase M500's armour by 30% for 8 seconds.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/OoS5b90.png"
+    },
+    {
+        "ID": 155,
+        "NAME": [
+            "M590",
+            "M-590",
+            "M 590"
+        ],
+        "BUILDTIME": "07:40",
+        "TILE": "🔵⚫⚫\n⚫⚫⚫\n🔵⚫⚪\n**Affects machineguns**\n**Increase Accuracy by** 55%",
+        "RARITY": 4,
+        "TYPE": "SG",
+        "SKILL": "Ironside Concentration",
+        "DESC": "Increase M590's armour by 40% for 8 seconds.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/KKawOKj.png"
+    },
+    {
+        "ID": 156,
+        "NAME": [
+            "Super-Shorty",
+            "Shorty"
+        ],
+        "BUILDTIME": "07:50",
+        "TILE": "⚫⚫⚫\n🔵⚫⚪\n⚫⚫⚫\n**Affects machine guns**\n**Increase damage by** 15%\n**Increases accuracy by** 20%",
+        "RARITY": 4,
+        "TYPE": "SG",
+        "SKILL": "Survival Instinct",
+        "DESC": "Increase Super-Shorty's armour by 28% and evasion by 25% for 4 seconds.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/qgQg0F7.png"
+    },
+    {
+        "ID": 157,
+        "NAME": [
+            "Am KSG",
+            "KSG",
+            "Am-KSG"
+        ],
+        "BUILDTIME": "08:00",
+        "TILE": "🔵⚫⚫\n⚫⚫⚪\n🔵⚫⚫\n**Affects machine guns**\n**Increase damage by** 15%\n**Increases accuracy by** 20%",
+        "RARITY": 5,
+        "TYPE": "SG",
+        "SKILL": "Survival Instinct",
+        "DESC": "Increase KSG's armour by 30% and evasion by 30% for 4 seconds.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/3TCvinT.png"
+    },
+    {
+        "ID": 158,
+        "NAME": [
+            "KS-23",
+            "KS23",
+            "KS 23"
+        ],
+        "BUILDTIME": "07:25",
+        "TILE": "⚫⚫⚪\n⚫⚫⚫\n🔵⚫⚫\n**Affects machineguns**\n**Increase Damage by** 12%\n**Increase Accuracy by** 30%",
+        "RARITY": 3,
+        "TYPE": "SG",
+        "SKILL": "Damage Focus SG",
+        "DESC": "Increase KS-23's damage by 30%, and KS-23's attack will hit 5 targets for 8 seconds.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/6BZe2Yw.png"
+    },
+    {
+        "ID": 159,
+        "NAME": [
+            "RMB-93",
+            "RMB 93",
+            "RMB93"
+        ],
+        "BUILDTIME": "07:30",
+        "TILE": "🔵⚫⚫\n⚫⚫⚫\n⚫⚫⚪\n**Affects machineguns**\n**Increase Damage by** 12%\n**Increase Accuracy by** 30%",
+        "RARITY": 3,
+        "TYPE": "SG",
+        "SKILL": "Burst Impact",
+        "DESC": "RMB-93 performs an additional attack, which deals 1.2 times RMB-93's damage to a single target and drive it back 2 units.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/8Ec80Pg.png"
+    },
+    {
+        "ID": 161,
+        "NAME": [
+            "Type97S",
+            "Captian China",
+            "Type 97S",
+            "Type-97S"
+        ],
+        "BUILDTIME": "0Achievement",
+        "TILE": "🔵⚫⚫\n🔵⚫⚪\n🔵⚫⚫\n**Affects machineguns**\n**Increase Damage by** 12%",
+        "RARITY": 4,
+        "TYPE": "SG",
+        "SKILL": "Damage Focus SG",
+        "DESC": "Increase Type 97's damage by 30%, and Type 97's attack will hit 5 targets for 8 seconds.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/d1n0GRQ.png"
+    },
+    {
+        "ID": 162,
+        "NAME": [
+            "SPAS-12",
+            "SPAS12",
+            "SPAS",
+            "glutton",
+            "best girl"
+        ],
+        "BUILDTIME": "07:40",
+        "TILE": "🔵⚫⚫\n🔵⚫⚪\n⚫⚫⚫\n**Affects Machine Guns**\n**Increase damage by** 20%",
+        "RARITY": 4,
+        "TYPE": "SG",
+        "SKILL": "Damage Focus SG",
+        "DESC": "Increase SPAS-12's damage by 30% and SPAS-12's attack will hit 5 targets for 8 seconds.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/0pWxthQ.png"
+    },
+    {
+        "ID": 163,
+        "NAME": [
+            "AA-12",
+            "AA12",
+            "Sugar Addict",
+            "Addict"
+        ],
+        "BUILDTIME": "08:12",
+        "TILE": "🔵⚫⚫\n🔵⚫⚪\n⚫⚫⚫\n**Affects Machine Guns**\n**Increase damage by** 22%",
+        "RARITY": 5,
+        "TYPE": "SG",
+        "SKILL": "Ketosis",
+        "DESC": "Increase ammo by 5 and self rate of fire by 35%. Each attack's knockback chance is increased to 6%. Duration 6 seconds.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/ABSdnTW.png"
+    },
+    {
+        "ID": 165,
+        "NAME": [
+            "M1014"
+        ],
+        "BUILDTIME": "07:14",
+        "TILE": "🔵⚫⚫\n⚫⚫⚫\n🔵⚫⚪\n**Affects MGs**\n**Increases damage by** 20%",
+        "RARITY": 4,
+        "TYPE": "SG",
+        "SKILL": "Signs of Irritability",
+        "DESC": "Increase M1014's damage by 20% and armour by 15% for 6 seconds.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/KGFW614.png"
+    },
+    {
+        "ID": 166,
+        "NAME": [
+            "CZ75",
+            "CZ-75",
+            "CZ 75"
+        ],
+        "BUILDTIME": "Event Reward: Truth Prevails",
+        "TILE": "🔵🔵⚫\n⚫⚪⚫\n🔵🔵⚫\n**Affects all guns**\n**Increases damage by** 8%(x1) / 10%(x2) / 12%(x3) / 14%(x4) / 16%(x5)\n**Increases rate of fire by** 10%(x1) / 13%(x2) / 15%(x3) / 18%(x4) / 20%(x5)",
+        "RARITY": 5,
+        "TYPE": "HG",
+        "SKILL": "Observer Strike",
+        "DESC": "Throws a tomahawk, dealing 5x of CZ75's damage at the targeted enemy.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/I2bqtiM.png"
+    },
+    {
+        "ID": 167,
+        "NAME": [
+            "Gr HK45",
+            "HK45",
+            "HK-45",
+            "HK 45"
+        ],
+        "BUILDTIME": "Login Reward: February 2019",
+        "TILE": "🔵⚫🔵\n⚫⚪⚫\n🔵⚫🔵\n**Affects all guns**\n**Increases damage by**\n16%(x1) / 20%(x2) / 24%(x3) / 28%(x4) / 32%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Raid Command",
+        "DESC": "Increase allies' damage by 6% and accuracy by 5% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/9PQ1W23.png"
+    },
+    {
+        "ID": 168,
+        "NAME": [
+            "Spitfire",
+            "spit-fire",
+            "spit fire"
+        ],
+        "BUILDTIME": "00:52",
+        "TILE": "🔵⚫🔵\n⚪⚫⚫\n🔵⚫🔵\n**Affects all guns**\n**Increases damage by**\n15%(x1) / 18%(x2) / 22%(x3) / 26%(x4) / 30%(x5)\n**Increases accuracy by**\n20%(x1) / 25%(x2) / 30%(x3) / 35%(x4) / 40%(x5)",
+        "RARITY": 4,
+        "TYPE": "HG",
+        "SKILL": "Assault Suppression",
+        "DESC": "Decrease rate of fire of all enemies by 16% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/1Yv7EYb.png"
+    },
+    {
+        "ID": 170,
+        "NAME": [
+            "ASh-12.7",
+            "ASh",
+            "ASh 12.7",
+            "ASh127",
+            "ASh-127",
+            "ASh 127"
+        ],
+        "BUILDTIME": "**Login Reward**\nJune 2018",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases damage by** 30%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "Elimination Focus",
+        "DESC": "Increase ASh-12.7's damage and by 25% and critical rate by 25% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/IVeOYA2.png"
+    },
+    {
+        "ID": 171,
+        "NAME": [
+            "Ribeyrolles",
+            "ribey rolles",
+            "ribey-rolles",
+            "ribey",
+            "rib"
+        ],
+        "BUILDTIME": "03:40",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects assault rifles**\n**Increases damage by** 20%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Crimson Encore",
+        "DESC": "Increase the damage, accuracy and rate of fire of the guns affected by her tiles by 15%, 15% and 15% for 3 seconds respectively",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/8Xlyo5S.png"
+    },
+    {
+        "ID": 172,
+        "NAME": [
+            "Am RFB",
+            "RFB",
+            "Rifle Forward-ejection Bullpup"
+        ],
+        "BUILDTIME": "03:58",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns**\n**Increases accuracy by** 30%\n**Increases evasion by** 18%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Ammo Supremacy",
+        "DESC": "Increase RFB's damage by 50% and accuracy by 25%, changes her targets to the backrow for 5 seconds.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/TKVPjA2.png"
+    },
+    {
+        "ID": 173,
+        "NAME": [
+            "PKP"
+        ],
+        "BUILDTIME": "06:50",
+        "TILE": "⚪⚫🔵\n⚫⚫🔵\n⚫⚫🔵\n**Affects shotguns**\n**Increases damage by** 18%",
+        "RARITY": 5,
+        "TYPE": "MG",
+        "SKILL": "Ultimatum",
+        "DESC": "Increase PKP's chance of firing an additional bullet with a guaranteed critical chance with every attack by 5%.",
+        "COOLDOWN": "Passive",
+        "IMAGE": "https://i.imgur.com/NLcPLLb.png"
+    },
+    {
+        "ID": 174,
+        "NAME": [
+            "Type 81 Carbine",
+            "Type-81 Carbine",
+            "T81 Carbine",
+            "T-81 Carbine",
+            "T 81 Carbine"
+        ],
+        "BUILDTIME": "March 2019 Login Reward",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫\n**Affects Handguns**\n**Reduces skill cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Assault Focus N",
+        "DESC": "Increase Type 81 Carbine's rate of fire by 50% for 3 seconds, 16% during day.",
+        "COOLDOWN": "10s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/s1YwOgD.png"
+    },
+    {
+        "ID": 175,
+        "NAME": [
+            "ART556",
+            "ART",
+            "ART 556",
+            "ART-556"
+        ],
+        "BUILDTIME": "Event Reward: Pixie Warfare",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases accuracy by** 50%\n**Increases evasion by** 15%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Charge Focus",
+        "DESC": "Increase ART556's damage by 50% and rate of fire by 16% for 3 seconds.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/xRn5Nch.png"
+    },
+    {
+        "ID": 181,
+        "NAME": [
+            "T91",
+            "Type 91"
+        ],
+        "BUILDTIME": "03:48",
+        "TILE": "⚫⚪🔵\n⚫⚫⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases damage by** 20%\n**Increases evasion by** 12%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Eliminate Focus N",
+        "DESC": "Increase damage by 60% and crit rate by 25% in Night battles, increases damage by 20% and crit rate by 15% in Day battles for 5 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/776vJM5.png"
+    },
+    {
+        "ID": 183,
+        "NAME": [
+            "Contender"
+        ],
+        "BUILDTIME": "01:02",
+        "TILE": "🔵🔵🔵\n🔵⚪🔵\n🔵🔵🔵\n**Affects all guns**\n**Increases damage by**\n15%(x1) / 18%(x2) / 22%(x3) / 26%(x4) / 30%(x5)\n**Increases critical rate by**\n10%(x1) / 12%(x2) / 15%(x3) / 17%(x4) / 20%(x5)",
+        "RARITY": 5,
+        "TYPE": "HG",
+        "SKILL": "Inquisitor's Bullet",
+        "DESC": "After aiming for 1 second, shoots a special bullet that inflicts 1.5x the damage towards the enemy, amplifying the damage received by 25% and setting it as the target of focus fire for 3s. Depending on whether Contender is in the front/middle/back column, it will target the enemy that's the furthest/highest hp/closest correspondingly. If a boss is present, it will target the boss first.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/IS4RUoe.png"
+    },
+    {
+        "ID": 184,
+        "NAME": [
+            "T-5000"
+        ],
+        "BUILDTIME": "04:10",
+        "TILE": "⚫⚫⚫\n⚫⚪⚫\n⚫🔵🔵\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Lock-on Focus",
+        "DESC": "Increase T-5000's rate of fire and accuracy by 30% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/gGAI8Ba.png"
+    },
+    {
+        "ID": 185,
+        "NAME": [
+            "Ameli"
+        ],
+        "BUILDTIME": "06:25",
+        "TILE": "⚫⚫🔵\n⚪⚫🔵\n⚫⚫🔵\n**Affects shotguns**\n**Increases damage by** 10%\n**Increases armor by** 15%",
+        "RARITY": 4,
+        "TYPE": "MG",
+        "SKILL": "Lock and Load N",
+        "DESC": "Nighttime increases Ameli's damage by 28% (6% Daytime) increases ammo by 1, lasts 6 seconds.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/4q5F8is.png"
+    },
+    {
+        "ID": 188,
+        "NAME": [
+            "S.A.T.8",
+            "SAT8",
+            "SAT 8",
+            "SAT"
+        ],
+        "BUILDTIME": "08:10",
+        "TILE": "🔵⚫⚫\n🔵⚫⚪\n🔵⚫⚫\n**Affects machine guns**\n**Increases damage by** 10%\n**Increases accuracy by** 15%",
+        "RARITY": 5,
+        "TYPE": "SG",
+        "SKILL": "Fortification Theory",
+        "DESC": "Creates a/multiple shield(s) that can take a total of N/A damage (Per Shield) for N/A seconds. Affects dolls in the front column during activation only and works with any class.",
+        "COOLDOWN": "8s cooldown, 2s initial cooldown",
+        "IMAGE": "https://i.imgur.com/MtB9MlP.png"
+    },
+    {
+        "ID": 189,
+        "NAME": [
+            "USAS-12",
+            "USAS12",
+            "USAS",
+            "USAS 12"
+        ],
+        "BUILDTIME": "07:55",
+        "TILE": "🔵⚫⚫\n⚫⚫⚪\n⚫⚫⚫\n**Affects machine guns**\n**Increases damage by** 15%\n**Increases accuracy by** 20%",
+        "RARITY": 4,
+        "TYPE": "SG",
+        "SKILL": "Frenzy Raid",
+        "DESC": "Increase rate of fire by 32% for 6 seconds, loaded ammunition by 1, and reload time by 1 second.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/fKZujes.png"
+    },
+    {
+        "ID": 190,
+        "NAME": [
+            "NS2000",
+            "NS 2000",
+            "NS-2000",
+            "NS"
+        ],
+        "BUILDTIME": "07:15",
+        "TILE": "🔵⚫⚪\n⚫⚫⚫\n🔵⚫⚫\n**Affects machine guns**\n**Increases damage by** 15%",
+        "RARITY": 3,
+        "TYPE": "SG",
+        "SKILL": "Burst Impact",
+        "DESC": "NS2000 performs an additional attack, which deals 1.2 times NS2000's damage to a single target and drive it back 2 units.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/U9OrVY5.png"
+    },
+    {
+        "ID": 192,
+        "NAME": [
+            "JS05",
+            "JS 05"
+        ],
+        "BUILDTIME": "2018 Halloween Event",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Piercing Shot",
+        "DESC": "After aiming for 2 seconds, shoot the furthest target, dealing 0.9x JS05's damage to all enemies in its path and an additional 0.9x JS05's damage to the target.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/6l0ohKC.png"
+    },
+    {
+        "ID": 196,
+        "NAME": [
+            "Zas M21",
+            "zas",
+            "m21",
+            "zasm21",
+            "zas-m21"
+        ],
+        "BUILDTIME": "04:05",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases rate of fire by** 12%\n**Increases evasion by** 15%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Night Owl's Screech",
+        "DESC": "Launches a grenade that causes 120% damage to enemies within a 2.5 radius. If more than three enemy units hits, they will take 10% extra damage for 2 seconds. If less than three enemy units hits, Zas' own damage will increase by 40% for 5 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/I0POaXV.png"
+    },
+    {
+        "ID": 197,
+        "NAME": [
+            "Carcano M1891",
+            "M1981",
+            "Strawberry Carcano",
+            "Pink Cano",
+            "Pink Carcano"
+        ],
+        "BUILDTIME": "04:38",
+        "TILE": "⚪⚫⚫\n🔵⚫⚫\n🔵⚫⚫\n**Affects rifles**\n**Reduces skill cooldown time by** 10%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "War horn of Mars",
+        "DESC": "Active: Upon activation, increase own crit rate and rate of fire by 5% for every RF unit present in the echelon, last for 4.5 seconds. Passive: 40% chance to improve crit rate and rate of fire for T-Dolls standing on the same column by 2%, last for 2 seconds, effect stacks up to 3 times.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/a2DTk2K.png"
+    },
+    {
+        "ID": 198,
+        "NAME": [
+            "Carcano M91/38",
+            "Carcano M9138",
+            "M9138",
+            "M91/38",
+            "Grape Cano",
+            "Grape Carcano"
+        ],
+        "BUILDTIME": "04:42",
+        "TILE": "🔵⚫⚫\n🔵⚫⚫\n⚪⚫⚫\n**Affects rifles**\n**Reduces skill cooldown time by** 10%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Mask of Mors",
+        "DESC": "Active: Instantly gains 12 marks. Passive: Every shot Carcano M91/38 does has a 30% chance to increase her marks by 2, upon reaching 18 marks, causes Carcano M91/38's next shot to deal 180% damage to Elite/Boss units, if target is a non-boss unit, deal 2700% damage instead. Resets marks to 0.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/CV8H6S0.png"
+    },
+    {
+        "ID": 199,
+        "NAME": [
+            "Type 80",
+            "Type-80",
+            "Type80"
+        ],
+        "BUILDTIME": "06:15",
+        "TILE": "⚫⚫🔵\n⚫⚫🔵\n⚪⚫⚫\n**Affects shotguns**\n**Increases accuracy by** 15%\n**Increases damage by** 10%",
+        "RARITY": 4,
+        "TYPE": "MG",
+        "SKILL": "Damage Focus MG",
+        "DESC": "Increase Type 80 damage by 25% for 4 seconds,",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/tKzqKI7.png"
+    },
+    {
+        "ID": 212,
+        "NAME": [
+            "K5"
+        ],
+        "BUILDTIME": "00:53",
+        "TILE": "🔵🔵⚫\n🔵⚪🔵\n🔵🔵⚫\n**Affects All Guns**\n**Increases damage by** 15%(x1) / 18%(x2) / 22%(x3) / 26%(x4) / 30%(x5)\n**Increases accuracy by** 20%(x1) / 25%(x2) / 30%(x3) / 35%(x4) / 40%(x5)",
+        "RARITY": 4,
+        "TYPE": "HG",
+        "SKILL": "Battlefield Fortune Teller",
+        "DESC": "Provides a different bonus depending on the type of T-dolls currently standing on her buff tiles upon activation, lasts for 5 seconds: \nHG/SMG T-doll will receive a 20% increase to evasion.\n AR/RF T-doll will receive a 10% bonus to damage. \nSG/MG T-doll will receive a 40% bonus to accuracy.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/fnsGff4.png"
+    },
+    {
+        "ID": 213,
+        "NAME": [
+            "C-MS",
+            "CMS",
+            "C MS"
+        ],
+        "BUILDTIME": "02:28",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects Assault Rifles**\n**Increases damage by** 15%\n**Increases rate of fire by** 5%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Whimsical Chain",
+        "DESC": "Tap to switch between different ammunition. Each provides a different static effect: \nSubsonic rounds (default): Increase evasion by 30%. \nSpoon point tip : Increase Damage by 40%. \nStandard rounds : Increases Accuracy by 110%.",
+        "COOLDOWN": "1s cooldown, 1s initial cooldown",
+        "IMAGE": "https://i.imgur.com/wckgQ2D.png"
+    },
+    {
+        "ID": 215,
+        "NAME": [
+            "MDR",
+            "Shitposter",
+            "4ch0n",
+            "r0ddit"
+        ],
+        "BUILDTIME": "03:53",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫🔵\n**Affects Submachine Guns**\n**Increases Accuracy by** 65%\n**Increases Damage by** 25%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Danger Scout",
+        "DESC": "If an ally is directly front of her in battle, grants that ally with a 15HP shield and 40% increased evasion. If no ally is in front of her, increase her damage by 20% and rate of fire by 10% for 6 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/UwcIWlU.png"
+    },
+    {
+        "ID": 216,
+        "NAME": [
+            "XM8",
+            "XM-8",
+            "XM 8"
+        ],
+        "BUILDTIME": "03:25",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫⚫\n**Affects submachine guns**\n**Increases damage by** 20%\n**Increases evasion by** 15%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Anti-Personnel Grenade",
+        "DESC": "Launches a grenade that deals 5 times XM8s damage to enemies within a radius of 1.5 units.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/SouOjSm.png"
+    },
+    {
+        "ID": 228,
+        "NAME": [
+            "Shiki",
+            "Type 100",
+            "Type-100",
+            "100 Shiki",
+            "Type 100 Shiki",
+            "Type-100 Shiki"
+        ],
+        "BUILDTIME": "02:19",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects Assault Rifles**\n**Increases damage by** 12%\n**Increases accuracy by** 35%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Cherry Blossom's Reflection",
+        "DESC": "Deploys a shield which absorbs 15 damage for 5 seconds. If the shield breaks, her evasion increases by 30% for 3 seconds. If the shield expires without breaking, her damage increases by 40% for 3 seconds instead.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/6RH0h3T.png"
+    },
+    {
+        "ID": 249,
+        "NAME": [
+            "Type 62",
+            "T62",
+            "T 62",
+            "T-62",
+            "Type-62"
+        ],
+        "BUILDTIME": "April 2019 Login Reward",
+        "TILE": "⚫⚫🔵\n⚫⚫🔵\n⚪⚫⚫\n**Affects Shotguns**\n**Increases accuracy by** 20%\n**Increases armor by** 8%",
+        "RARITY": 3,
+        "TYPE": "MG",
+        "SKILL": "Raid Focus MG",
+        "DESC": "Increase Type 62's damage by 18% and accuracy by 25% for 4 seconds.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/aayMfxD.png"
+    },
+    {
+        "ID": 257,
+        "NAME": [
+            "M200",
+            "intervention",
+            "360 no scope",
+            "long legs",
+            "daddy long legs"
+        ],
+        "BUILDTIME": "04:32",
+        "TILE": "⚪🔵⚫\n⚫🔵⚫\n⚫⚫⚫\n**Affects Handguns**\n**Reduce skill cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Killing Intent of the Silent",
+        "DESC": "Active: Enter sniper mode for 9 seconds. After every 2.5 seconds of aiming, deal 1.5x damage (able to crit) to the furthest target and decrease their damage by 5% for 3 seconds. Passive: Normal attacks against armorless enemies deal 1.05x damage.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/xhhUTBB.png"
+    },
+    {
+        "ID": 1001,
+        "NAME": [
+            "Noel Vermillion",
+            "Noel",
+            "Carrot"
+        ],
+        "BUILDTIME": "Operation Rabbit Hunt Package Drop",
+        "TILE": "🔵🔵🔵\n⚫⚪⚫\n🔵🔵🔵\n**Affects all guns**\n**Increases Rate of Fire by**\n15%(x1) / 18%(x2) / 22%(x3) / 26%(x4) / 30%(x5)\n**Increases evasion by**\n10%(x1) / 12%(x2) / 15%(x3) / 17%(x4) / 20%(x5)",
+        "RARITY": 6,
+        "TYPE": "HG",
+        "SKILL": "Zero-Gun: Fenrir",
+        "DESC": "Dash towards the enemy and inflict 0.6x Noel's damage for 8 hits within a small area.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/1OP8T4m.png"
+    },
+    {
+        "ID": 1002,
+        "NAME": [
+            "Elphelt Valentine",
+            "Elphelt",
+            "Bunny Ears"
+        ],
+        "BUILDTIME": "Operation Rabbit Hunt Clear Reward",
+        "TILE": "🔵⚫⚫\n⚫⚫⚪\n🔵⚫⚫\n**Affects machineguns**\n**Increases Damage by** 15%\n**Increases Accuracy by** 15%",
+        "RARITY": 6,
+        "TYPE": "SG",
+        "SKILL": "Genoise",
+        "DESC": "Inflicts 4.0x Elphelt's damage and locks on to the target before launching a missile that deals 6.0x Elphelt's damage to enemies within 1.5 unit radius.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Db325RZ.png"
+    },
+    {
+        "ID": 102,
+        "NAME": [
+            "UMP40",
+            "UMP 40",
+            "UMP-40",
+            "Expresso Depresso"
+        ],
+        "BUILDTIME": "**Event Reward**: Operation Deep Dive\nSupply Crate Drop(Guaranteed after 777)",
+        "TILE": "⚫🔵🔵\n⚫⚪⚫\n⚫🔵🔵\n**Affects Submachine Guns**\n**Increases critical chance by** 500%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Overload",
+        "DESC": "Inactive effect: Reduce damage by 5%, increase evasion by 10% every 2 seconds, for up to 5 stacks. Activation effect: Resets current buff and debuff stacks, increase damage by 20.0%, decrease evasion by 20.0% every 2 seconds, for up to 5 stacks.",
+        "COOLDOWN": "666s cooldown, 1s initial cooldown",
+        "IMAGE": "https://i.imgur.com/YrvUJ3B.png"
+    },
+    {
+        "ID": 179,
+        "NAME": [
+            "Gd DSR-50",
+            "DSR-50",
+            "DSR50",
+            "Big Tiddy Onee-San",
+            "Thot",
+            "Thot Supreme"
+        ],
+        "BUILDTIME": "**Event Reward**: Operation Deep Dive\nMap Clear: 2-4",
+        "TILE": "⚫⚫⚫\n⚪🔵🔵\n⚫⚫⚫\n**Affects HGs**\n**Decreases skill cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Rending Shot",
+        "DESC": "After taking aim for 2 seconds, shoot the target with the highest HP for 2.5x DSR-50's damage, if the target is armored, 4.5x DSR-50's damage.",
+        "COOLDOWN": "20s cooldown, 15s initial cooldown",
+        "IMAGE": "https://i.imgur.com/v5YyB4M.png"
+    },
+    {
+        "ID": 177,
+        "NAME": [
+            "KLIN"
+        ],
+        "BUILDTIME": "**Event Reward**: Operation Deep Dive\nMap Clear: 1-4",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫\n**Affects Assault Rifles**\n**Increase rate of fire by** 25%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Incendiary Grenade",
+        "DESC": "Throws an incendiary grenade that deals 3.2x KLIN's damage and a DoT of 0.5x KLIN's damage every 0.33 seconds for 2.0 seconds within a radius of 1.5 units.",
+        "COOLDOWN": "20.0s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/htRNZPh.png"
+    },
+    {
+        "ID": 180,
+        "NAME": [
+            "PzB39",
+            "pzb-39",
+            "pzb 39",
+            "pzb"
+        ],
+        "BUILDTIME": "**Event Reward**: Operation Deep Dive\nPossible Drop",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects HGs**\n**Reduce skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Piercing Shot",
+        "DESC": "After taking aim for 2 seconds, shoot the furthest target, dealing 1.8x PzB 39's damage to all enemies in its path and an additional 1.8x PzB 39's damage to the target.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/gAb4BYC.png"
+    },
+    {
+        "ID": 178,
+        "NAME": [
+            "F1",
+            "Aussie gun",
+            "skipper",
+            "Emu War"
+        ],
+        "BUILDTIME": "**Event Reward**: Operation Deep Dive\nPossible Drop",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects Assault Rifles**\n**Increase Accuracy by** 40%\n**Increase Evasion by** 15%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Smoke Grenade",
+        "DESC": "Throws a smoke grenade that decreases the enemy's rate of fire by 20.0% and movement speed by 30.0% within a radius of 2.5 units for 2.5 seconds.",
+        "COOLDOWN": "20.0s cooldown, 1.0s initial cooldown",
+        "IMAGE": "https://i.imgur.com/DD8ruIW.png"
+    },
+    {
+        "ID": 176,
+        "NAME": [
+            "TMP"
+        ],
+        "BUILDTIME": "**Login Reward**: May",
+        "TILE": "🔵⚪⚫\n⚫⚫⚫\n🔵⚫⚫\n**Affects Assault Rifles**\n**Increase Accuracy by** 20%\n**Increase Damage by** 15%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Cover Focus",
+        "DESC": "Increases own evasion by 65.0% for 3.0 seconds.",
+        "COOLDOWN": "10.0s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/H5dCzzR.png"
+    },
+    {
+        "ID": 136,
+        "NAME": [
+            "PP-19",
+            "PP19",
+            "PP 19"
+        ],
+        "BUILDTIME": "Rescue Event",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫\n**Affects assault rifles**\n**Increases damage by** 24%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Hand Grenade",
+        "DESC": "Launch a grenade that deals 2.2 times PP-19's damage to enemies within a radius of 2.5 units.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/ygdfTZl.png"
+    },
+    {
+        "ID": 113,
+        "NAME": [
+            "Serdyukov"
+        ],
+        "BUILDTIME": "Login Reward: June 2019",
+        "TILE": "⚫🔵⚫\n🔵⚪⚫\n⚫🔵⚫\n**Affects all guns**\n**Increases damage by**\n12%(x1) / 15%(x2) / 18%(x3) / 21%(x4) / 24%(x5)\n**Increases accuracy by**\n20%(x1) / 25%(x2) / 30%(x3) / 35%(x4) / 40%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Fire Command",
+        "DESC": "Increases all allies damage by 11% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/xyK3DvY.png"
+    },
+    {
+        "ID": 194,
+        "NAME": [
+            "K2"
+        ],
+        "BUILDTIME": "03:52",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects submachine guns**\n**Increases damage by** 25%\n**Increases accuracy by** 50%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Overheat",
+        "DESC": "Activate skill during combat to switch between attack modes. \nFever Mode (Default): Burst fire, fires 3 bullets each dealing 40% damage, barrel heats up by 1 level. At level 15, the barrel overheats and starts losing 3.2% damage and accuracy for every level (up to 20 stacks). \nNote Mode: Single fire mode, reduces her own evasion and movespeed by 60% and fires 1 bullet, reducing 1 heat level per shot. Every subsequent attack on a single enemy will increase the damage dealt to it by 2% each (up to 10 stacks).",
+        "COOLDOWN": "5s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/mITnx8l.png"
+    },
+    {
+        "ID": 236,
+        "NAME": [
+            "K11"
+        ],
+        "BUILDTIME": "04:11",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns**\n**Increases damage by** 20%\n**Increases evasion by** 15%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Terror Grenade",
+        "DESC": "Launch X grenades where X is the number of dummy links, that deal 2x damage to enemies within a 1 yard radius. Enemies hit by these grenades are marked for 3 seconds. Marked enemies take an additional 2x damage from grenades.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/KSAx8hU.png"
+    },
+    {
+        "ID": 248,
+        "NAME": [
+            "Jericho"
+        ],
+        "BUILDTIME": "00:49",
+        "TILE": "🔵⚫🔵\n🔵⚪🔵\n⚫⚫⚫\n**Affects all guns**\n**Increases damage by**\n12%(x1) / 15%(x2) / 18%(x3) / 21%(x4) / 24%(x5)\n**Increases accuracy by**\n25%(x1) / 31%(x2) / 37%(x3) / 43%(x4) / 50%(x5)",
+        "RARITY": 4,
+        "TYPE": "HG",
+        "SKILL": "Crimson Eclipse",
+        "DESC": "Active: Increases the damage of allies on her tile buffs by 6% for 5 seconds. \nPassive: Whenever allies on her tile buffs reloads, their damage and accuracy increases by 5%. Stacks 3 times, lasts 15 seconds",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/gLtiMWL.png"
+    },
+    {
+        "ID": 243,
+        "NAME": [
+            "64 Shiki",
+            "Howa Type 64"
+        ],
+        "BUILDTIME": "04:06",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns**\n**Increases damage by** 18%\n**Increases evasion by** 18%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Forewarning",
+        "DESC": "Upon skill activation, if there are more than 5 groups of enemies, increases own rate of fire and accuracy by 30%, otherwise increase self damage by 40%, for 3 seconds. After 3 seconds, if there are more than 2 groups of enemies, grant a 16 HP shield to allies on her tiles, else increase damage of self and allies on her tiles by 25%, for 5 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/qyqxebO.png"
+    },
+    {
+        "ID": 235,
+        "NAME": [
+            "SPR A3G"
+        ],
+        "BUILDTIME": "04:15",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Self Exuberance",
+        "DESC": "Marks the current target and aims for 1.5 seconds, then fires a shot dealing 2.8x damage to the target. The mark persists on the target for 5 seconds. If the target dies while mark is active, increase self rate of fire by 15% for 5 seconds.",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/d3GQJn5.png"
+    },
+    {
+        "ID": 187,
+        "NAME": [
+            "Ak 5",
+            "Ak5",
+            "Ak-5"
+        ],
+        "BUILDTIME": "Chapter 9 Limited Drop",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects Submachine guns**\n**Increases damage by** 15%\n**Increases accuracy by** 30%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Thermal development",
+        "DESC": "Increases own Firepower by 40% for 3.0 seconds.",
+        "COOLDOWN": "10.0s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/s31NazW.png"
+    },
+    {
+        "ID": 222,
+        "NAME": [
+            "Tac-50",
+            "Tac50",
+            "Tac 50"
+        ],
+        "BUILDTIME": "Rice Dumpling Day Event Prize",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 30%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Maple and Firefly",
+        "DESC": "Passive: After skill cooldown, TAC-50's drone will mark a random enemy (marked enemy changes every second). Active: Shoots the marked enemy for 2.5x damage. This attack can crit.",
+        "COOLDOWN": "20s cooldown, 10s initial cooldown",
+        "IMAGE": "https://i.imgur.com/kmdkCsm.png"
+    },
+    {
+        "ID": 221,
+        "NAME": [
+            "GSh-18",
+            "Fubuki",
+            "Bucky",
+            "GSh18",
+            "GSh 18"
+        ],
+        "BUILDTIME": "Reward for purchasing 5 editions of the 4-koma at the cafe",
+        "TILE": "🔵🔵⚫\n🔵⚪⚫\n🔵🔵⚫\n**Affects all guns**\n**Increases damage by**\n12%(x1) / 15%(x2) / 18%(x3) / 21%(x4) / 24%(x5)\n**Increases accuracy by**\n20%(x1) / 25%(x2) / 30%(x3) / 35%(x4) / 40%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Chain Assault",
+        "DESC": "Dual-Wields two handguns for 3 seconds, all shots hit are critical during skill activation",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/iUulKdd.png"
+    },
+    {
+        "ID": 1017,
+        "NAME": [
+            "Jill",
+            "Wall of Text"
+        ],
+        "BUILDTIME": "Event Reward: Clear E1-8",
+        "TILE": "🔵🔵🔵\n🔵⚪🔵\n🔵🔵🔵\n**Affects all guns**\n**Increases damage by**\n20%(x1) / 25%(x2) / 30%(x3) / 35%(x4) / 40%(x5)\n**Increases accuracy by**\n20%(x1) / 25%(x2) / 30%(x3) / 35%(x4) / 40%(x5)",
+        "RARITY": 6,
+        "TYPE": "HG",
+        "SKILL": "Mixing Time",
+        "DESC": "Passive: Receives 1% reduction to her skill's base cooldown for every point in base DMG, up to 30%.\nActive: After mixing for 3 seconds, Jill serves 1 of 7 possible drinks to her echelon:\n    **[Big Beer]** Increases DMG/ACC by 10% and Armor by 10% to all SGs for 5 seconds.\n    **[Brandtini]** Increases DMG/ACC by 10% to all MGs for 5 seconds.\n    **[Piano Woman]** Increases EVA by 35% to all frontline units. Other units receive +10% DMG, both buffs last for 5 seconds.\n    **[Moonblast]** Increases ROF by 10% to all allies for 5 seconds.\n    **[Bleeding Jane]** Increases CRIT RATE by 10% to all ARs and RFs. If ally is at 100% crit rate, then 60% of the excess is converted to CRIT DMG. buffs last for 5 seconds.\n    **[Fringe Weaver]** All allies get +15% DMG for 3 seconds. After buff expires, echelon receives -20% DMG/ACC for 3 seconds.\n    **[Suger Rush]** All allies get +10% DMG for 5 seconds.",
+        "COOLDOWN": "20s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/AZ7bFNe.png"
+    },
+    {
+        "ID": 1022,
+        "NAME": [
+            "Dana"
+        ],
+        "BUILDTIME": "Event Reward: Clear E1-1",
+        "TILE": "🔵⚫⚫\n🔵⚫⚪\n🔵⚫⚫\n**Affects Machineguns**\n**Increases damage by** 15%\n**Increases accuracy by** 15%",
+        "RARITY": 6,
+        "TYPE": "SG",
+        "SKILL": "Red Geyser",
+        "DESC": "Favorite Drink: [Big Beer] - Gain 0.5 shield for every 1 armor Dana has.\n**Passive:** Fires an exploding rocket fist. Can only attack 1 enemy, dealing 1.2x damage and has 5% chance of knockback. (Does not stack with Slugs)\n**Active:** Jumps up and smashes the ground, causing a large explosion dealing 0.3x damage and knockback to enemies within a radius of 2 units. Increase damage of the skill by 1% for every 1 armor Dana has.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/x4laCgj.png"
+    },
+    {
+        "ID": 1018,
+        "NAME": [
+            "Sei",
+            "Rei"
+        ],
+        "BUILDTIME": "Event Drop: E1-5 and E2-5",
+        "TILE": "🔵🔵⚫\n⚫⚪🔵\n🔵🔵⚫\n**Affects all guns**\n**Increases damage by**\n15%(x1) / 18%(x2) / 22%(x3) / 26%(x4) / 30%(x5)\n**Increases evasion by**\n10%(x1) / 12%(x2) / 15%(x3) / 17%(x4) / 20%(x5)",
+        "RARITY": 6,
+        "TYPE": "HG",
+        "SKILL": "White Knight's Shield",
+        "DESC": "Favorite Drink: [Moonblast] - Shield's HP scaling is doubled.\n**Passive:** When Stella is present, Sei's attacks will be counted for Stella's passive.\n**Active:** Grants a shield with 32 HP to all allied SG's, SMG's and HG's. The lower the HP of the target, the higher the HP of the shield, ranging from 0.8x to 1.8x of the base value. Lasts for 5 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/G3Xu662.png"
+    },
+    {
+        "ID": 1020,
+        "NAME": [
+            "Stella"
+        ],
+        "BUILDTIME": "Obtained as a possible drop throughout Valhalla in maps E1-8 and E2-8.",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects handguns**\n**Reduces skill cooldown by** 18%",
+        "RARITY": 6,
+        "TYPE": "RF",
+        "SKILL": "Puppet Mask",
+        "DESC": "Favorite Drink: [Bleeding Jane] - Only requires 14 attacks to activate her second passive.\n**Passive 1:** When Sei is present, grant 10% reduction to her skill's base CD.\n**Passive 2:** When her dolls attacks over 20 times, the next round of attacks will have +50% critical damage.\n**Active:** Increase self damage by 30% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/nIYUCbw.png"
+    },
+    {
+        "ID": 1019,
+        "NAME": [
+            "Dorothy"
+        ],
+        "BUILDTIME": "Obtained by redeeming 150x White Knight Armour Shards",
+        "TILE": "🔵⚫⚫\n⚫⚪⚫\n🔵⚫⚫\n**Affects assault rifles and rifles**\n**Increases damage by** 15%,\n**Increases accuracy by** 25%",
+        "RARITY": 6,
+        "TYPE": "SMG",
+        "SKILL": "Secret Modification",
+        "DESC": "Favorite Drink: [Piano Women] - Reduce the negative effects of her skill by 50%.\n**Passive:** Dorothy will use Nano-camouflage by default if she is in the middle row, otherwise she will use MIRD113.\n**Active:** Toggles between one of two skill effects; \n\n**MIRD113:** Increase self damage by 50%, reduce the accuracy of allies in the same row by 60% but increase evasion by 50%.\n**Nano-camouflage:** Increase self evasion by 50%, reduce the evasion of allies in the same row by 60% but increase accuracy by 50%.",
+        "COOLDOWN": "2s cooldown, 1s initial cooldown",
+        "IMAGE": "https://i.imgur.com/5js432z.png"
+    },
+    {
+        "ID": 1021,
+        "NAME": [
+            "Alma"
+        ],
+        "BUILDTIME": "Obtained by redeeming 150x White Knight Armour Shards",
+        "TILE": "⚫⚫🔵\n⚪⚫🔵\n⚫⚫⚫\n**Affects shotguns**\n**Increases damage by** 15%,\n**Increases armour by** 15%",
+        "RARITY": 6,
+        "TYPE": "MG",
+        "SKILL": "Love & Dreams",
+        "DESC": "Favorite Drink: [Brantini] - Increase the duration of the drones by 1 second.\n**Active:** Summons an additional 2 drones to attack. The additional drones have 20% damage and lasts for 2 seconds.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/lTcoN7v.png"
+    },
+    {
+        "ID": 245,
+        "NAME": [
+            "P90",
+            "Rush B",
+            "Cyka Blyat"
+        ],
+        "BUILDTIME": "02:29",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 12%\n**Increases accuracy by** 30%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Squirrel",
+        "DESC": "Arc Shadow: Every second, increase self evasion by 8%, this effect stacks. The following 4 attacks will both be guaranteed to hit and crit. Passive: Activates \"Arc Shadow\" effect for 3 seconds whenever P90 loses 5% health, cooldown 6 seconds. Active: Activates \"Arc Shadow\" effect for 5 seconds and deploys holograms based on the number of links P90 has for 3 seconds. Holograms have 999 armor and 3 hp per holo-link.",
+        "COOLDOWN": "16.0s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/9XgRZMW.png"
+    },
+    {
+        "ID": 237,
+        "NAME": [
+            "SAR-21",
+            "SAR",
+            "SAR21",
+            "SAR 21"
+        ],
+        "BUILDTIME": "03:25",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns\n**Increases damage by** 20%\n**Increases accuracy by** 55%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Great Meteor Storm",
+        "DESC": "At the cost of reducing own accuracy by -30%, raise own rate of fire to 150 and enter sweep mode (switch target after every shot), last for 3.0 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/GROMs5s.png"
+    },
+    {
+        "ID": 233,
+        "NAME": [
+            "Px4 Storm",
+            "Px4",
+            "Storm",
+            "stormy"
+        ],
+        "BUILDTIME": "01:04",
+        "TILE": "🔵⚪⚫\n🔵🔵⚫\n🔵⚫⚫",
+        "RARITY": 5,
+        "TYPE": "HG",
+        "SKILL": "Hunting Token",
+        "DESC": "Grants all T-dolls who are on her buff tiles increased critical damage by 30.0% at the cost of 30.0% critical rate, last for 5.0 seconds",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/wx5JBBY.png"
+    },
+    {
+        "ID": 247,
+        "NAME": [
+            "K31",
+            "K 31",
+            "K-31"
+        ],
+        "BUILDTIME": "04:15",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Emergency Speed",
+        "DESC": "At the cost of decreasing her own accuracy by 20%, increases her own rate of fire by 40% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/rS7MTFv.png"
+    },
+    {
+        "ID": 238,
+        "NAME": [
+            "QJY-88",
+            "QJY88",
+            "QJY 88",
+            "Type-88",
+            "Type 88",
+            "Type88"
+        ],
+        "BUILDTIME": "06:28",
+        "TILE": "⚪⚫🔵\n⚫⚫🔵\n⚫⚫🔵\n**Affects Shotguns**\n**Increase Accuracy by** 10%\n**Increases Armour by** 15%",
+        "RARITY": 5,
+        "TYPE": "MG",
+        "SKILL": "Slothful Rage",
+        "DESC": "Active: Increases Type 88's damage by 27% for 4 seconds. Passive: Swaps between LMG Mode and HMG mode depending on whether Type 88 has made movement or not, while in LMG mode, increases Type 88's movement speed by 50% but lowers her accuracy by 40%. If Type 88 remains stationary for 6 seconds, enter HMG mode increasing her accuracy by 15% and max ammo by 0. If movement has been made, Type 88 will return to LMG mode.",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/Cn8wT2L.png"
+    },
+    {
+        "ID": 28,
+        "NAME": [
+            "MP7"
+        ],
+        "BUILDTIME": "02:18",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects Assault Rifles**\n**Increase Accuracy by** 25%\n**Increases Rate of Fire by** 15%",
+        "RARITY": 5,
+        "TYPE": "SMG",
+        "SKILL": "Moon Dancer",
+        "DESC": "Decreases accuracy and rate of fire by 40% but increases evasion by 100% and movement speed by 30% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/8MJ9wu5.png"
+    },
+    {
+        "ID": 49,
+        "NAME": [
+            "Type 56"
+        ],
+        "BUILDTIME": "November 2019 Login Reward",
+        "TILE": "⚫🔵⚫\n⚫⚪⚫\n⚫🔵⚫\n**Affects Handguns**\n**Reduce Skill Cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Damage Focus",
+        "DESC": "Increases damage by 35% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/ftCbvHq.png"
+    },
+    {
+        "ID": 169,
+        "NAME": [
+            "SCW"
+        ],
+        "BUILDTIME": "Drops from 8-6 & 8-4E bosses",
+        "TILE": "⚫⚫⚫\n🔵⚪⚫\n⚫⚫⚫\n**Affects Assault Rifles**\n**Increase Rate of Fire by** 10%\n**Increases Damage by** 6%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Mobility Focus",
+        "DESC": "Increases damage by 100% and evasion by 25% and for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/tgJt9w0.png"
+    },
+    {
+        "ID": 182,
+        "NAME": [
+            "wz.29",
+            "wz29"
+        ],
+        "BUILDTIME": "September 2019 Login Reward",
+        "TILE": "⚫⚫⚫\n⚫⚪⚫\n⚫⚫🔵\n**Affects Handguns**\n**Reduce Skill Cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Assault Focus",
+        "DESC": "Increases rate of fire by 35% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/pOLdlsy.png"
+    },
+    {
+        "ID": 186,
+        "NAME": [
+            "P226"
+        ],
+        "BUILDTIME": "Neural Upgrade Login Event Reward for Day 7",
+        "TILE": "⚫🔵⚫\n⚫⚪🔵\n⚫🔵⚫\n**Affects All Guns**\n**Increase Accuracy by**\n25%(x1) / 31%(x2) / 37%(x3) / 43%(x4) / 50%(x5)\n**Increases Damage by**\n10%(x1) / 12%(x2) / 15%(x3) / 17%(x4) / 20%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Assault Suppression",
+        "DESC": "Decreases rate of fire of all enemies by 15% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/bUJ0vEa.png"
+    },
+    {
+        "ID": 191,
+        "NAME": [
+            "M12"
+        ],
+        "BUILDTIME": "July 2019 Login Reward",
+        "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects Assault Rifles**\n**Increase Damage by** 8%\n**Increases Evasion by** 8%",
+        "RARITY": 3,
+        "TYPE": "SMG",
+        "SKILL": "Incendiary Grenade",
+        "DESC": "Throws an incendiary grenade that deals 3x damage within a radius of 1.5 units and ignites them, dealing 0.5x continuous damage every 0.33 seconds for 2 seconds.",
+        "COOLDOWN": "20s cooldown, 3s initial cooldown",
+        "IMAGE": "https://i.imgur.com/sFSbI3N.png"
+    },
+    {
+        "ID": 193,
+        "NAME": [
+            "T65"
+        ],
+        "BUILDTIME": "October 2019 Login Reward",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫⚫\n**Affects Submachine Guns**\n**Increase Damage by** 15%\n**Increases Accuracy by** 25%",
+        "RARITY": 3,
+        "TYPE": "AR",
+        "SKILL": "Annihilation Focus N",
+        "DESC": "During nighttime, increases self damage by 50% (18% during daytime) and critical rate by 22% (12% during daytime) for 5 seconds.",
+        "COOLDOWN": "20s cooldown, 5s initial cooldown",
+        "IMAGE": "https://i.imgur.com/eeYlNfF.png"
+    },
+    {
+        "ID": 200,
+        "NAME": [
+            "XM3"
+        ],
+        "BUILDTIME": "Drops from 10-6 and 10-4E bosses",
+        "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫⚫\n**Affects Handguns**\n**Reduce Skill Cooldown by** 15%",
+        "RARITY": 4,
+        "TYPE": "RF",
+        "SKILL": "Assault focus N",
+        "DESC": "During nighttime, increases rate of fire by 55% (18% in during day) for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/CWwH3S5.png"
+    },
+    {
+        "ID": 201,
+        "NAME": [
+            "Gepard M1"
+        ],
+        "BUILDTIME": "August 2019 Login Reward, Singularity Drop",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫🔵\n**Affects Handguns**\n**Reduce Skill Cooldown by** 12%",
+        "RARITY": 3,
+        "TYPE": "RF",
+        "SKILL": "Interdiction Shot",
+        "DESC": "Begin charging after skill cooldown ends, gaining 1 charge stack every second, up to a maximum of 7 stacks. When skill is used, aim for 1.5 seconds, then deal 2 ~ 3x damage to the nearest enemy based on the current number of charge stacks. All stacks will be consumed on skill use.",
+        "COOLDOWN": "13s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/7xgEHhT.png"
+    },
+    {
+        "ID": 202,
+        "NAME": [
+            "Thunder"
+        ],
+        "BUILDTIME": "Singularity Drop, Glory Day Drop from E2-1 & E4-1",
+        "TILE": "🔵⚫⚫\n⚫⚪🔵\n🔵⚫⚫\n**Affects All Guns**\n**Increase Damage by**\n18%(x1) / 22%(x2) / 27%(x3) / 31%(x4) / 36%(x5)",
+        "RARITY": 4,
+        "TYPE": "HG",
+        "SKILL": "Critical Point Shot",
+        "DESC": "Aims for 1 second and shoots the nearest enemy for 800% damage. This shot can be avoided, in that case, reload for 2 seconds and aim again.",
+        "COOLDOWN": "15s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/BZiDb1L.png"
+    },
+    {
+        "ID": 203,
+        "NAME": [
+            "Honey Badger"
+        ],
+        "BUILDTIME": "Singularity Chapter 2 Hidden Level Reward",
+        "TILE": "🔵⚪⚫\n⚫⚫⚫\n🔵⚫⚫\n**Affects Assault Rifles**\n**Increase Damage by** 20%\n**Increases Crit Rate by** 20%",
+        "RARITY": 4,
+        "TYPE": "SMG",
+        "SKILL": "Mobility Focus",
+        "DESC": "Increases damage by 110% and evasion by 25% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/JNoYEPU.png"
+    },
+    {
+        "ID": 204,
+        "NAME": [
+            "Ballista"
+        ],
+        "BUILDTIME": "Singularity Loot Box, Guaranteed on 777th opening",
+        "TILE": "⚫⚫🔵\n⚫⚪⚫\n⚫⚫🔵\n**Affects Handguns**\n**Reduce Skill Cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Falcon Strike",
+        "DESC": "[Passive]: Apply 1 layer of marks to enemies every 3 seconds (These marks can stack).\n[Active]: Each normal attack will target a marked enemy and activate an additional attack while consuming 1 mark. Skill lasts for 4 seconds or until all marks are consumed.        ",
+        "COOLDOWN": "20s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/6sktgFJ.png"
+    },
+    {
+        "ID": 205,
+        "NAME": [
+            "AN-94"
+        ],
+        "BUILDTIME": "04:09",
+        "TILE": "⚫⚪🔵\n⚫⚫🔵\n⚫⚫🔵\n**Affects Submachine Guns**\n**Increase Accuracy by** 55%\n**Increases Evasion by** 16%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Doll Trigger",
+        "DESC": "Passive: The first attack on a new target will hit twice.\nActive: Upon skill activation, each attack will hit twice on current target for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/rF1lrtR.png"
+    },
+    {
+        "ID": 206,
+        "NAME": [
+            "AK-12"
+        ],
+        "BUILDTIME": "04:12",
+        "TILE": "⚫⚫🔵\n⚫⚫🔵\n⚫⚪🔵\n**Affects Submachine Guns**\n**Increase Damage by** 25%\n**Increases Rate of Fire by** 15%",
+        "RARITY": 5,
+        "TYPE": "AR",
+        "SKILL": "Snow Wolf's Gaze",
+        "DESC": "Increases damage, rate of fire, accuracy and critical hit rate by 15% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/vCktO83.png"
+    },
+    {
+        "ID": 207,
+        "NAME": [
+            "CZ2000"
+        ],
+        "BUILDTIME": "Singularity Reward - Completion of Map E1-C4",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫⚫\n**Affects Submachine Guns**\n**Increase Rate of Fire by** 10%\n**Increases Evasion by** 15%",
+        "RARITY": 4,
+        "TYPE": "AR",
+        "SKILL": "Twilight Flame",
+        "DESC": "Increases damage by 40% and critical rate by 15% in daytime while increasing accuracy by 30% and fire rate by 30% in nighttime for 6 seconds.",
+        "COOLDOWN": "20s cooldown, 4s initial cooldown",
+        "IMAGE": "https://i.imgur.com/0ds2RBs.png"
+    },
+    {
+        "ID": 208,
+        "NAME": [
+            "HK21"
+        ],
+        "BUILDTIME": "Singularity Reward - Completion of Map E2-D4",
+        "TILE": "⚫⚫⚫\n⚪⚫🔵\n⚫⚫🔵\n**Affects Shotguns**\n**Increase Damage by** 15%\n**Increases Armour by** 15%",
+        "RARITY": 5,
+        "TYPE": "MG",
+        "SKILL": "Indiscriminate Destruction",
+        "DESC": "Increases damage by 10%, accuracy by 15%, enables sweep mode (switch target after every shot) when skill is active, additionally reduce movement speed by 50% and increases number of bullets by 1, lasts for 6 seconds.        ",
+        "COOLDOWN": "18s cooldown, 8s initial cooldown",
+        "IMAGE": "https://i.imgur.com/duA9rzI.png"
+    },
+    {
+        "ID": 211,
+        "NAME": [
+            "SRS"
+        ],
+        "BUILDTIME": "Entrance Exam Event Reward - 1800 Points",
+        "TILE": "⚫⚫⚫\n⚫⚪🔵\n⚫⚫🔵\n**Affects Handguns**\n**Reduce Skill Cooldown by** 18%",
+        "RARITY": 5,
+        "TYPE": "RF",
+        "SKILL": "Hunting Demonstration",
+        "DESC": "Increases damage by 30% and accuracy 20% for 3 seconds.",
+        "COOLDOWN": "10s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/BUMDmmw.png"
+    },
+    {
+        "ID": 220,
+        "NAME": [
+            "MP-443"
+        ],
+        "BUILDTIME": "Singularity Login Event Reward",
+        "TILE": "⚫🔵🔵\n⚫⚪🔵\n⚫🔵🔵\n**Affects All Guns**\n**Increase Damage by**\n10%(x1) / 12%(x2) / 15%(x3) / 17%(x4) / 20%(x5)\n**Increases Evasion by**\n10%(x1) / 12%(x2) / 15%(x3) / 17%(x4) / 20%(x5)",
+        "RARITY": 3,
+        "TYPE": "HG",
+        "SKILL": "Firepower Suppression",
+        "DESC": "Decreases the enemy squad's damage by 15% for 5 seconds.",
+        "COOLDOWN": "15s cooldown, 6s initial cooldown",
+        "IMAGE": "https://i.imgur.com/IE5OYn7.png"
+    }
+]

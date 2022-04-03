@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 245,
+    "NAME": ["P90","Rush B","Cyka Blyat"],
+    "BUILDTIME": "02:29",
+    "TILE": "🔵⚫⚫\n🔵⚪⚫\n🔵⚫⚫\n**Affects assault rifles**\n**Increases damage by** 12%\n**Increases accuracy by** 30%",
+    "RARITY": 5,
+    "TYPE": "SMG",
+    "SKILL": "Squirrel",
+    "DESC": "Arc Shadow: Every second, increase self evasion by 8%, this effect stacks. The following 4 attacks will both be guaranteed to hit and crit. Passive: Activates \"Arc Shadow\" effect for 3 seconds whenever P90 loses 5% health, cooldown 6 seconds. Active: Activates \"Arc Shadow\" effect for 5 seconds and deploys holograms based on the number of links P90 has for 3 seconds. Holograms have 999 armor and 3 hp per holo-link.",
+    "COOLDOWN": "16.0s cooldown, 6s initial cooldown",
+    "IMAGE": "https://i.imgur.com/9XgRZMW.png"
+  },
+  {
+    "ID": 237,
+    "NAME": ["SAR-21","SAR","SAR21","SAR 21"],
+    "BUILDTIME": "03:25",
+    "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫🔵\n**Affects submachine guns\n**Increases damage by** 20%\n**Increases accuracy by** 55%",
+    "RARITY": 4,
+    "TYPE": "AR",
+    "SKILL": "Great Meteor Storm",
+    "DESC": "At the cost of reducing own accuracy by -30%, raise own rate of fire to 150 and enter sweep mode (switch target after every shot), last for 3.0 seconds.",
+    "COOLDOWN": "20s cooldown, 4s initial cooldown",
+    "IMAGE": "https://i.imgur.com/GROMs5s.png"
+  },
+  {
+    "ID": 233,
+    "NAME": ["Px4 Storm","Px4","Storm","stormy"],
+    "BUILDTIME": "01:04",
+    "TILE": "🔵⚪⚫\n🔵🔵⚫\n🔵⚫⚫",
+    "RARITY": 5,
+    "TYPE": "HG",
+    "SKILL": "Hunting Token",
+    "DESC": "Grants all T-dolls who are on her buff tiles increased critical damage by 30.0% at the cost of 30.0% critical rate, last for 5.0 seconds",
+    "COOLDOWN": "15s cooldown, 6s initial cooldown",
+    "IMAGE": "https://i.imgur.com/wx5JBBY.png"
+  },
+  {
+    "ID": 247,
+    "NAME": ["K31","K 31","K-31"],
+    "BUILDTIME": "04:15",
+    "TILE": "⚫⚫🔵\n⚫⚪🔵\n⚫⚫⚫\n**Affects handguns**\n**Reduces skill cooldown by** 15%",
+    "RARITY": 4,
+    "TYPE": "RF",
+    "SKILL": "Emergency Speed",
+    "DESC": "At the cost of decreasing her own accuracy by 20%, increases her own rate of fire by 40% for 3 seconds.",
+    "COOLDOWN": "10s cooldown, 6s initial cooldown",
+    "IMAGE": "https://i.imgur.com/rS7MTFv.png"
+  },
+  {
+    "ID": 238,
+    "NAME": ["QJY-88","QJY88","QJY 88","Type-88","Type 88","Type88"],
+    "BUILDTIME": "06:28",
+    "TILE": "⚪⚫🔵\n⚫⚫🔵\n⚫⚫🔵\n**Affects Shotguns**\n**Increase Accuracy by** 10%\n**Increases Armour by** 15%",
+    "RARITY": 5,
+    "TYPE": "MG",
+    "SKILL": "Slothful Rage",
+    "DESC": "Active: Increases Type 88's damage by 27% for 4 seconds. Passive: Swaps between LMG Mode and HMG mode depending on whether Type 88 has made movement or not, while in LMG mode, increases Type 88's movement speed by 50% but lowers her accuracy by 40%. If Type 88 remains stationary for 6 seconds, enter HMG mode increasing her accuracy by 15% and max ammo by 0. If movement has been made, Type 88 will return to LMG mode.",
+    "COOLDOWN": "18s cooldown, 8s initial cooldown",
+    "IMAGE": "https://i.imgur.com/Cn8wT2L.png"
+  }
+]

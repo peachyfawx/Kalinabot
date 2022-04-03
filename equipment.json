@@ -1,0 +1,457 @@
+    [{
+        "BUILDTIME": "0:05",
+        "NAME": "BM 3-12X40",
+        "RARITY": 2,
+        "TYPE": "Accessory",
+        "STATS": "**Crit Chance %** +5~8",
+        "IMAGE": "https://i.imgur.com/ibkkm32.png"
+    },
+    {
+        "BUILDTIME": "0:07",
+        "NAME": " AC1 Suppressor",
+        "RARITY": 2,
+        "TYPE": "Accessory",
+        "STATS": "**Crit Chance %** +4~5\n**Evasion** +2~2",
+        "IMAGE": "https://i.imgur.com/br9H7ch.png"
+    },
+    {
+        "BUILDTIME": "0:08",
+        "NAME": "EOT 506",
+        "RARITY": 2,
+        "TYPE": "Accessory",
+        "STATS": "**Accuracy** +1~1\n**Damage** +1~1\n**Rate of Fire** -1~1",
+        "IMAGE": "https://i.imgur.com/saY0pMs.png"
+    },
+    {
+        "BUILDTIME": "0:09",
+        "NAME": "PEQ-2",
+        "RARITY": 2,
+        "TYPE": "Accessory",
+        "STATS": "**Night Vision** +51~56",
+        "IMAGE": "https://i.imgur.com/cw3KGMk.png"
+    },
+    {
+        "BUILDTIME": "0:10",
+        "NAME": "AMP COMPM2",
+        "RARITY": 2,
+        "TYPE": "Accessory",
+        "STATS": "**Accuracy** +2~3\n**Rate of Fire** -1~1",
+        "IMAGE": "https://i.imgur.com/JI1Tp7e.png"
+    },
+    {
+        "BUILDTIME": "0:12",
+        "NAME": "IOP T1 Exoskeleton",
+        "RARITY": 2,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Evasion** +2~3\n**Damage**-1~2",
+        "IMAGE": "https://i.imgur.com/t88m1wy.png"
+    },
+    {
+        "BUILDTIME": "0:12",
+        "NAME": "IOP X1 Exoskeleton",
+        "RARITY": 2,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Evasion** +2~3",
+        "IMAGE": "https://i.imgur.com/t88m1wy.png"
+    },
+    {
+        "BUILDTIME": "0:13",
+        "NAME": "ILM Hollow Point Ammo",
+        "RARITY": 2,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +1~1\n**Armour Penetration** -1~1",
+        "IMAGE": "https://i.imgur.com/4Zf050w.png"
+    },
+    {
+        "BUILDTIME": "0:14",
+        "NAME": "＃1 Buckshot",
+        "RARITY": 2,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +1~1\n**Crit Damage** +3~4",
+        "IMAGE": "https://i.imgur.com/ajD64v5.png"
+    },
+    {
+        "BUILDTIME": "0:14",
+        "NAME": "BK Slug",
+        "RARITY": 2,
+        "TYPE": "Magazine",
+        "STATS": "**Target** -2\n**Damage** x3\n**Accuracy** +1~2",
+        "IMAGE": "https://i.imgur.com/EeKYD04.png"
+    },
+    {
+        "BUILDTIME": "0:15",
+        "NAME": "M61 Armor-Piercing Ammo",
+        "RARITY": 2,
+        "TYPE": "Magazine",
+        "STATS": "**Armour Penetration** +25~30",
+        "IMAGE": "https://i.imgur.com/lG7auza.png"
+    },
+    {
+        "BUILDTIME": "0:16",
+        "NAME": "Ragged Cape",
+        "RARITY": 2,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Crit Damage** +3~4\n**Movement Speed** -3",
+        "IMAGE": "https://i.imgur.com/KP0PJbW.png"
+    },
+    {
+        "BUILDTIME": "0:18",
+        "NAME": "FMJ High-Velocity Ammo",
+        "RARITY": 2,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +2",
+        "IMAGE": "https://i.imgur.com/8UEbQ3k.png"
+    },
+    {
+        "BUILDTIME": "0:20",
+        "NAME": "LRA 2-12x50",
+        "RARITY": 3,
+        "TYPE": "Accessory",
+        "STATS": "**Crit Chance %** +5~8",
+        "IMAGE": "https://i.imgur.com/ibkkm32.png"
+    },
+    {
+        "BUILDTIME": "0:22",
+        "NAME": "AC2 Suppressor",
+        "RARITY": 3,
+        "TYPE": "Accessory",
+        "STATS": "**Crit Chance %** +6~8\n**Evasion** +3~3",
+        "IMAGE": "https://i.imgur.com/br9H7ch.png"
+    },
+    {
+        "BUILDTIME": "0:23",
+        "NAME": "EOT 512",
+        "RARITY": 3,
+        "TYPE": "Accessory",
+        "STATS": "**Accuracy** +2~2\n**Damage** +1~2\n**Rate of Fire** -2~2",
+        "IMAGE": ""
+    },
+    {
+        "BUILDTIME": "0:24",
+        "NAME": "PEQ-5",
+        "RARITY": 3,
+        "TYPE": "Accessory",
+        "STATS": "**Night Vision** +61~70",
+        "IMAGE": "https://i.imgur.com/cw3KGMk.png"
+    },
+    {
+        "BUILDTIME": "0:25",
+        "NAME": "AMP COMPM4",
+        "RARITY": 3,
+        "TYPE": "Accessory",
+        "STATS": "**Accuracy** +4~6\n**Rate of Fire** -2~1",
+        "IMAGE": "https://i.imgur.com/JI1Tp7e.png"
+    },
+    {
+        "BUILDTIME": "0:26",
+        "NAME": "Type 1 Armor Plate",
+        "RARITY": 3,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Armour** +3~3\n**Evasion** -1~1",
+        "IMAGE": "https://i.imgur.com/JmykYm0.png"
+    },
+    {
+        "BUILDTIME": "0:27",
+        "NAME": "IOP T2 Exoskeleton",
+        "RARITY": 3,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Evasion** +10~12\n**Damage** -4~3",
+        "IMAGE": "https://i.imgur.com/t88m1wy.png"
+    },
+    {
+        "BUILDTIME": "0:27",
+        "NAME": "IOP X2 Exoskeleton",
+        "RARITY": 3,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Evasion** +4~5",
+        "IMAGE": "https://i.imgur.com/t88m1wy.png"
+    },
+    {
+        "BUILDTIME": "0:28",
+        "NAME": "ILM Hollow Point Ammo",
+        "RARITY": 3,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +2~3\n**Armour Penetrating** -3~2",
+        "IMAGE": "https://i.imgur.com/4Zf050w.png"
+    },
+    {
+        "BUILDTIME": "0:29",
+        "NAME": "＃0 Buckshot",
+        "RARITY": 3,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +2~3\n**Crit Damage** +5~6",
+        "IMAGE": "https://i.imgur.com/ajD64v5.png"
+    },
+    {
+        "BUILDTIME": "0:29",
+        "NAME": "FST Slug",
+        "RARITY": 3,
+        "TYPE": "Magazine",
+        "STATS": "**Target** -2\n**Damage** x3\n**Accuracy** +3~4",
+        "IMAGE": "https://i.imgur.com/EeKYD04.png"
+    },
+    {
+        "BUILDTIME": "0:30",
+        "NAME": "M993 Armor-Piercing Ammo",
+        "RARITY": 3,
+        "TYPE": "Magazine",
+        "STATS": "**Armour Penetration** +40~50",
+        "IMAGE": "https://i.imgur.com/lG7auza.png"
+    },
+    {
+        "BUILDTIME": "0:31",
+        "NAME": "Camouflage Cape",
+        "RARITY": 3,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Crit Damage** +5~7\n**Movement Speed** -3~3",
+        "IMAGE": "https://i.imgur.com/KP0PJbW.png"
+    },
+    {
+        "BUILDTIME": "0:33",
+        "NAME": "JSP High-Velocity Ammo",
+        "RARITY": 3,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +3~4",
+        "IMAGE": "https://i.imgur.com/8UEbQ3k.png"
+    },
+    {
+        "BUILDTIME": "0:35",
+        "NAME": "PSO-1",
+        "RARITY": 4,
+        "TYPE": "Accessory",
+        "STATS": "**Crit Chance %** +13~16",
+        "IMAGE": "https://i.imgur.com/ibkkm32.png"
+    },
+    {
+        "BUILDTIME": "0:37",
+        "NAME": "AC3 Suppressor",
+        "RARITY": 4,
+        "TYPE": "Accessory",
+        "STATS": "**Evasion** +4~5\n**Critical Chance %** +9~11",
+        "IMAGE": "https://i.imgur.com/br9H7ch.png"
+    },
+    {
+        "BUILDTIME": "0:38",
+        "NAME": "EOT 516",
+        "RARITY": 4,
+        "TYPE": "Accessory",
+        "STATS": "**Accuracy** +3~5\n**Damage** +2~3\n**Rate of Fire** -4~3",
+        "IMAGE": "https://i.imgur.com/saY0pMs.png"
+    },
+    {
+        "BUILDTIME": "0:39",
+        "NAME": "PEQ-15",
+        "RARITY": 4,
+        "TYPE": "Accessory",
+        "STATS": "**Night Vision** +76~85",
+        "IMAGE": "https://i.imgur.com/cw3KGMk.png"
+    },
+    {
+        "BUILDTIME": "0:40",
+        "NAME": "COG M150",
+        "RARITY": 4,
+        "TYPE": "Accessory",
+        "STATS": "**Accuracy** +7~10\n**Rate of Fire** -3~1",
+        "IMAGE": "https://i.imgur.com/JI1Tp7e.png"
+    },
+    {
+        "BUILDTIME": "0:41",
+        "NAME": "Type 2 Armor Plate",
+        "RARITY": 4,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Armour** +4~5\n**Evasion** -1~1",
+        "IMAGE": "https://i.imgur.com/JmykYm0.png"
+    },
+    {
+        "BUILDTIME": "0:42",
+        "NAME": "IOP T3 Exoskeleton",
+        "RARITY": 4,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Evasion** +14~16\n**Damage** -6~5",
+        "IMAGE": "https://i.imgur.com/t88m1wy.png"
+    },
+    {
+        "BUILDTIME": "0:42",
+        "NAME": "IOP X3 Exoskeleton",
+        "RARITY": 4,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Evasion** +6~7",
+        "IMAGE": "https://i.imgur.com/wOSy1W9.png"
+    },
+    {
+        "BUILDTIME": "0:43",
+        "NAME": "ILM Hollow Point Ammo",
+        "RARITY": 4,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +4~6\n**Armour Penetration** -6~4",
+        "IMAGE": "https://i.imgur.com/4Zf050w.png"
+    },
+    {
+        "BUILDTIME": "0:44",
+        "NAME": "＃00 Buckshot",
+        "RARITY": 4,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +4~6\n**Crit Damage** +7~9",
+        "IMAGE": "https://i.imgur.com/ajD64v5.png"
+    },
+    {
+        "BUILDTIME": "0:44",
+        "NAME": "WAD Slug",
+        "RARITY": 4,
+        "TYPE": "Magazine",
+        "STATS": "**Target** -2\n**Damage** x3\n**Accuracy** +5~7",
+        "IMAGE": "https://i.imgur.com/EeKYD04.png"
+    },
+    {
+        "BUILDTIME": "0:45",
+        "NAME": "Mk169 Armor-Piercing Ammo",
+        "RARITY": 4,
+        "TYPE": "Magazine",
+        "STATS": "**Armour Penetration** +55~65",
+        "IMAGE": "https://i.imgur.com/lG7auza.png"
+    },
+    {
+        "BUILDTIME": "0:45",
+        "NAME": "VFL 6-24x56",
+        "RARITY": 5,
+        "TYPE": "Accessory",
+        "STATS": "**Crit Chance %** +17~24",
+        "IMAGE": "https://i.imgur.com/ibkkm32.png"
+    },
+    {
+        "BUILDTIME": "0:46",
+        "NAME": "Urban Camouflage Cape",
+        "RARITY": 4,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Crit Damage** +8~10\n**Movement Speed** -3",
+        "IMAGE": "https://i.imgur.com/bJQPO7K.png"
+    },
+    {
+        "BUILDTIME": "0:47",
+        "NAME": "IOP High-Capacity Ammo Box",
+        "RARITY": 4,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Clip Size** +1\n**Evasion** -1",
+        "IMAGE": "https://i.imgur.com/MAS4d8z.png"
+    },
+    {
+        "BUILDTIME": "0:47",
+        "NAME": "AC4 Suppressor",
+        "RARITY": 5,
+        "TYPE": "Accessory",
+        "STATS": "**Crit Chance %** +12~15\n**Evasion** +6~8",
+        "IMAGE": "https://i.imgur.com/br9H7ch.png"
+    },
+    {
+        "BUILDTIME": "0:48",
+        "NAME": "JHP High-Velocity Ammo",
+        "RARITY": 4,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +5~7",
+        "IMAGE": "https://i.imgur.com/8UEbQ3k.png"
+    },
+    {
+        "BUILDTIME": "0:48",
+        "NAME": "EOT 518",
+        "RARITY": 5,
+        "TYPE": "Accessory",
+        "STATS": "**Accuracy** +6~10\n**Damage** +4~6\n**Rate of Fire** -6~4",
+        "IMAGE": "https://i.imgur.com/saY0pMs.png"
+    },
+    {
+        "BUILDTIME": "0:49",
+        "NAME": "PEQ-16A",
+        "RARITY": 5,
+        "TYPE": "Accessory",
+        "STATS": "**Night Vision* +91~100",
+        "IMAGE": "https://i.imgur.com/cw3KGMk.png"
+    },
+    {
+        "BUILDTIME": "0:50",
+        "NAME": "ITI Mars",
+        "RARITY": 5,
+        "TYPE": "Accessory",
+        "STATS": "**Accuracy** +11~15\n**Rate of Fire** -4~1",
+        "IMAGE": "https://i.imgur.com/JI1Tp7e.png"
+    },
+    {
+        "BUILDTIME": "0:51",
+        "NAME": "Type 3 Armor Plate",
+        "RARITY": 5,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Armour** +6~8\n**Evasion** -3~2",
+        "IMAGE": "https://i.imgur.com/JmykYm0.png"
+    },
+    {
+        "BUILDTIME": "0:52",
+        "NAME": "IOP T4 Exoskeleton",
+        "RARITY": 5,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Evasion** +20~25\n**Damage** -8~6",
+        "IMAGE": "https://i.imgur.com/t88m1wy.png"
+    },
+    {
+        "BUILDTIME": "0:52",
+        "NAME": "IOP X4 Exoskeleton",
+        "RARITY": 5,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Evasion** +8~12",
+        "IMAGE": "https://i.imgur.com/wOSy1W9.png"
+    },
+    {
+        "BUILDTIME": "0:53",
+        "NAME": "ILM Hollow Point Ammo",
+        "RARITY": 5,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +7~10\n**Armour Penetration** -10~7",
+        "IMAGE": "https://i.imgur.com/4Zf050w.png"
+    },
+    {
+        "BUILDTIME": "0:54",
+        "NAME": "＃000 Buckshot",
+        "RARITY": 5,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +7~10\n**Critical Damage** +10~15",
+        "IMAGE": "https://i.imgur.com/ajD64v5.png"
+    },
+    {
+        "BUILDTIME": "0:54",
+        "NAME": "SABOT Slug",
+        "RARITY": 5,
+        "TYPE": "Magazine",
+        "STATS": "**Target** -2\n**Damage** x3\n**Accuracy** +8~12",
+        "IMAGE": "https://i.imgur.com/EeKYD04.png"
+    },
+    {
+        "BUILDTIME": "0:55",
+        "NAME": "Mk211 High-Explosive Armor-Piercing Ammo",
+        "RARITY": 5,
+        "TYPE": "Magazine",
+        "STATS": "**Armour Penetration** +70~80",
+        "IMAGE": "https://i.imgur.com/lG7auza.png"
+    },
+    {
+        "BUILDTIME": "0:56",
+        "NAME": "Thermoptic Camouflage Cape",
+        "RARITY": 5,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Crit Damage** +11~15\n**Movement Speed** -3",
+        "IMAGE": "https://i.imgur.com/RhLpIGT.png"
+    },
+    {
+        "BUILDTIME": "0:57",
+        "NAME": "IOP Maximum Ammo Box",
+        "RARITY": 5,
+        "TYPE": "T-Doll Equipment",
+        "STATS": "**Clip Size** +2~3\n**Evasion** -3~2",
+        "IMAGE": "https://i.imgur.com/MAS4d8z.png"
+    },
+    {
+        "BUILDTIME": "0:58",
+        "NAME": "APCR High-Velocity Ammo",
+        "RARITY": 5,
+        "TYPE": "Magazine",
+        "STATS": "**Damage** +8~12",
+        "IMAGE": "https://i.imgur.com/8UEbQ3k.png"
+    }
+]
