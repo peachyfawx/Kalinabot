@@ -3,6 +3,6 @@
     "myID" : "",
     "prefix" : "//",
     "sqlPass": "password",
-    "sqlHost": "den1.mysql1.gear.host",
+    "sqlHost": "",
     "sqlDB": "testcommander"
 }
